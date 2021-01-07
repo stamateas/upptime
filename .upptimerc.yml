@@ -1,13 +1,15 @@
 # Change these first
 owner: stamateas # Your GitHub username
-repo: stamateas/upptime # Your GitHub repository name
+repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Google
     url: https://www.google.com
   - name: Recatt
-    url: https://recatt.its-telekom.eu/
+    url: https://recatt.its-telekom.eu
+  - name: GitLab
+    url: https://gitlab01.its-telekom.eu
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
 #  - name: Broken Site
@@ -23,15 +25,15 @@ status-website:
   cname: status.stamateas.de
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "Status Page"
   introMessage: This is the status page of IVA TA Systems
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Home
+      href: https://recatt.its-telekom.eu/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
