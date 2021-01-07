@@ -1,17 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: stamateas # Your GitHub username
+repo: stamateas/upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Recatt
-    url: https://recatt.its-telekom.eu
-  - name: AmAnschlag
-    url: http://www.amanschlag.de
-  - name: AmAnschlag
-    url: http://www.amanschlag.de
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
 #  - name: Broken Site
@@ -30,7 +24,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   introTitle: "Status Page"
-  introMessage: This is the status page of IVA TA Systems )
+  introMessage: This is the status page of IVA TA Systems
   navbar:
     - title: Status
       href: /
