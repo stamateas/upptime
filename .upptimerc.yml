@@ -10,6 +10,11 @@ sites:
     url: https://gitlab01.its-telekom.eu
   - name: Jenkins
     url: https://jenkins01.its-telekom.eu/
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+      - 403
   - name: ReportPortal
     url: https://reporting.its-telekom.eu/
   - name: Autentication Server
