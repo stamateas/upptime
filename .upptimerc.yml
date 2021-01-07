@@ -8,15 +8,15 @@ sites:
     url: https://recatt.its-telekom.eu
   - name: GitLab
     url: https://gitlab01.its-telekom.eu
- - name: Jenkins
+  - name: Jenkins
     url: https://jenkins01.its-telekom.eu/
- - name: ReportPortal
+  - name: ReportPortal
     url: https://reporting.its-telekom.eu/
- - name: Autentication Server
+  - name: Autentication Server
     url: https://auth.its-telekom.eu/
- - name: Mattermost Server
+  - name: Mattermost Server
     url: https://mattermost.its-telekom.eu/
- - name: Proxima Server
+  - name: Proxima Server
     url: http://proxima01.its-telekom.eu/
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
