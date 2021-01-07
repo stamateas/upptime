@@ -10,6 +10,8 @@ sites:
     url: https://recatt.its-telekom.eu
   - name: AmAnschlag
     url: http://www.amanschlag.de
+  - name: AmAnschlag
+    url: http://www.amanschlag.de
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
 #  - name: Broken Site
