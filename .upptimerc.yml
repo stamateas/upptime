@@ -2,7 +2,7 @@
 owner: stamateas # Your GitHub username
 repo: upptime # Your GitHub repository name
 
-# Add your sites here
+#Add your sites here
 sites:
   - name: Recatt
     url: https://recatt.its-telekom.eu
