@@ -19,7 +19,7 @@
   },
   {
     "name": "Recatt",
-    "url": "https://recatt.its-telekom.eu/",
+    "url": "https://recatt.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/recatt.its-telekom.eu",
     "slug": "recatt",
     "status": "up",
@@ -28,11 +28,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2149,
-    "timeDay": 2149,
-    "timeWeek": 2149,
-    "timeMonth": 2149,
-    "timeYear": 2149,
+    "time": 1950,
+    "timeDay": 1950,
+    "timeWeek": 1950,
+    "timeMonth": 1950,
+    "timeYear": 1950,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "GitLab",
+    "url": "https://gitlab01.its-telekom.eu",
+    "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
+    "slug": "git-lab",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1956,
+    "timeDay": 1956,
+    "timeWeek": 1956,
+    "timeMonth": 1956,
+    "timeYear": 1956,
     "dailyMinutesDown": {}
   }
 ]
