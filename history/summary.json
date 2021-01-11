@@ -4,117 +4,129 @@
     "url": "https://recatt.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/recatt.its-telekom.eu",
     "slug": "recatt",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.94%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1507,
     "timeDay": 1329,
     "timeWeek": 1507,
     "timeMonth": 1507,
     "timeYear": 1507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-11": 3
+    }
   },
   {
     "name": "GitLab",
     "url": "https://gitlab01.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.95%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 2169,
     "timeDay": 2249,
     "timeWeek": 2169,
     "timeMonth": 2169,
     "timeYear": 2169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-11": 3
+    }
   },
   {
     "name": "Jenkins",
     "url": "https://jenkins01.its-telekom.eu/",
     "icon": "https://favicons.githubusercontent.com/jenkins01.its-telekom.eu",
     "slug": "jenkins",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 902,
     "timeDay": 1188,
     "timeWeek": 902,
     "timeMonth": 902,
     "timeYear": 902,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-11": 2
+    }
   },
   {
     "name": "ReportPortal",
     "url": "https://reporting.its-telekom.eu/",
     "icon": "https://favicons.githubusercontent.com/reporting.its-telekom.eu",
     "slug": "report-portal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 915,
     "timeDay": 959,
     "timeWeek": 915,
     "timeMonth": 915,
     "timeYear": 915,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-11": 2
+    }
   },
   {
     "name": "Authentication Server",
     "url": "https://auth.its-telekom.eu/",
     "icon": "https://favicons.githubusercontent.com/auth.its-telekom.eu",
     "slug": "authentication-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 160,
     "timeDay": 160,
     "timeWeek": 160,
     "timeMonth": 160,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-11": 1
+    }
   },
   {
     "name": "Mattermost Server",
     "url": "https://mattermost.its-telekom.eu/",
     "icon": "https://favicons.githubusercontent.com/mattermost.its-telekom.eu",
     "slug": "mattermost-server",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1052,
     "timeDay": 1147,
     "timeWeek": 1052,
     "timeMonth": 1052,
     "timeYear": 1052,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-11": 1
+    }
   },
   {
     "name": "Proxima Server",
     "url": "http://proxima01.its-telekom.eu/",
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -123,6 +135,8 @@
     "timeWeek": 885,
     "timeMonth": 885,
     "timeYear": 885,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-11": 0
+    }
   }
 ]
