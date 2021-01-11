@@ -17,7 +17,7 @@ sites:
       - 403
   - name: ReportPortal
     url: https://reporting.its-telekom.eu/
-  - name: Autentication Server
+  - name: Authentication Server
     url: https://auth.its-telekom.eu/
   - name: Mattermost Server
     url: https://mattermost.its-telekom.eu/
