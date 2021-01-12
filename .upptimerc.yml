@@ -54,5 +54,3 @@ status-website:
 
 i18n:
   footer: This page is [open source]($REPO), powered by Test Automation @ IVA
-status-website:
- css: "body {background-color: #eff7fd}"
