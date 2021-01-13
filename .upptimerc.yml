@@ -6,8 +6,10 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Recatt Server
     url: https://recatt.its-telekom.eu
+    maxResponseTime: 3000
   - name: GitLab Server
     url: https://gitlab01.its-telekom.eu
+    maxResponseTime: 3000
   - name: Jenkins Server
     url: https://jenkins01.its-telekom.eu/
     expectedStatusCodes:
@@ -15,14 +17,19 @@ sites:
       - 201
       - 404
       - 403
+    maxResponseTime: 3000
   - name: ReportPortal Server
     url: https://reporting.its-telekom.eu/
+    maxResponseTime: 3000
   - name: Authentication Server
     url: https://auth.its-telekom.eu/
+    maxResponseTime: 3000
   - name: Mattermost Server
     url: https://mattermost.its-telekom.eu/
+    maxResponseTime: 3000
   - name: Proxima/DNS Server
     url: http://proxima01.its-telekom.eu/
+    maxResponseTime: 3000
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
 #  - name: Broken Site
