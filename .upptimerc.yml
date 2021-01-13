@@ -39,9 +39,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status
-  introTitle: "Status Page"
-  introMessage: This is the status page of IVA TA Systems
+  name: Server Status
+  introTitle: "IVA Test Automation Server Status"
+  introMessage: 
   navbar:
     - title: Status
       href: /
@@ -54,3 +54,5 @@ status-website:
 
 i18n:
   footer: This page is [open source]($REPO), powered by Test Automation @ IVA
+  liveStatus: Server Status
+  allSystemsOperational: All Servers are operational
