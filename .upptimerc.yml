@@ -62,4 +62,4 @@ status-website:
 i18n:
   footer: This page is [open source]($REPO), powered by Test Automation @ IVA
   liveStatus: Server Status
-  allSystemsOperational: All Servers are operational
+  allSystemsOperational: All Servers are operational! 
