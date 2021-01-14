@@ -28,7 +28,7 @@ sites:
     url: https://mattermost.its-telekom.eu/
     maxResponseTime: 2000
   - name: Proxima/DNS Server
-    url: http://proxima01.its-telekom.eu/
+    url: http://proxima01.its-telekom.eu/livewatch.php
     maxResponseTime: 2000
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
