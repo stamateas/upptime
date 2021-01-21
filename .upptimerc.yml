@@ -64,6 +64,12 @@ i18n:
   liveStatus: Server Status
   allSystemsOperational: All Servers are operational! 
 
+notifications:
+  - type: slack
+
+
+
+
 #Default values:
 #workflowSchedule:
 #  graphs: "0 0 * * *"
