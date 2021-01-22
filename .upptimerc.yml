@@ -66,6 +66,7 @@ i18n:
 
 notifications:
   - type: slack
+    channel: C01K93LEFGT
 
 
 
