@@ -34,7 +34,7 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "97.70%",
-    "uptimeDay": "78.63%",
+    "uptimeDay": "81.65%",
     "uptimeWeek": "94.44%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "97.70%",
@@ -198,7 +198,7 @@
     "timeMonth": 929,
     "timeYear": 802,
     "dailyMinutesDown": {
-      "2021-03-13": 138,
+      "2021-03-13": 181,
       "2021-03-12": 1440,
       "2021-03-11": 1440,
       "2021-03-10": 1440,
