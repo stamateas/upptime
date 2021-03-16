@@ -144,7 +144,7 @@
     "slug": "mattermost-server",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "95.87%",
+    "uptimeDay": "98.60%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.98%",
@@ -202,7 +202,7 @@
     "timeMonth": 893,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2021-03-16": 1261,
+      "2021-03-16": 1321,
       "2021-03-15": 1440,
       "2021-03-14": 1440,
       "2021-03-13": 1440,
