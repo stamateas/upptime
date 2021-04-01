@@ -13,7 +13,7 @@
     "time": 1125,
     "timeDay": 708,
     "timeWeek": 814,
-    "timeMonth": 817,
+    "timeMonth": 818,
     "timeYear": 1125,
     "dailyMinutesDown": {
       "2021-03-12": 62,
@@ -41,7 +41,7 @@
     "time": 1940,
     "timeDay": 1197,
     "timeWeek": 1407,
-    "timeMonth": 1406,
+    "timeMonth": 1402,
     "timeYear": 1940,
     "dailyMinutesDown": {
       "2021-03-14": 64,
@@ -66,15 +66,15 @@
     "icon": "https://favicons.githubusercontent.com/jenkins01.its-telekom.eu",
     "slug": "jenkins-server",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.67%",
+    "uptimeYear": "99.68%",
     "time": 689,
     "timeDay": 390,
     "timeWeek": 1436,
-    "timeMonth": 780,
+    "timeMonth": 787,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2021-03-12": 118,
@@ -100,7 +100,7 @@
     "time": 746,
     "timeDay": 487,
     "timeWeek": 711,
-    "timeMonth": 685,
+    "timeMonth": 688,
     "timeYear": 746,
     "dailyMinutesDown": {
       "2021-03-16": 42,
@@ -126,7 +126,7 @@
     "time": 188,
     "timeDay": 90,
     "timeWeek": 101,
-    "timeMonth": 155,
+    "timeMonth": 151,
     "timeYear": 188,
     "dailyMinutesDown": {
       "2021-02-10": 27,
@@ -151,7 +151,7 @@
     "time": 1032,
     "timeDay": 582,
     "timeWeek": 657,
-    "timeMonth": 731,
+    "timeMonth": 732,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2021-03-16": 17,
@@ -177,7 +177,7 @@
     "time": 819,
     "timeDay": 567,
     "timeWeek": 815,
-    "timeMonth": 745,
+    "timeMonth": 749,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2021-02-10": 26,
@@ -202,7 +202,7 @@
     "timeMonth": 864,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2021-04-01": 797,
+      "2021-04-01": 847,
       "2021-03-31": 1440,
       "2021-03-30": 1440,
       "2021-03-29": 1440,
