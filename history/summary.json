@@ -32,7 +32,7 @@
     "url": "https://gitlab01.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
-    "status": "up",
+    "status": "down",
     "uptime": "98.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -202,7 +202,7 @@
     "timeMonth": 881,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2021-04-08": 840,
+      "2021-04-08": 889,
       "2021-04-07": 1440,
       "2021-04-06": 1440,
       "2021-04-05": 1440,
