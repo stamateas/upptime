@@ -4,7 +4,7 @@
     "url": "https://recatt.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/recatt.its-telekom.eu",
     "slug": "recatt-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -202,7 +202,7 @@
     "timeMonth": 932,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2021-04-15": 25,
+      "2021-04-15": 63,
       "2021-04-14": 1440,
       "2021-04-13": 1440,
       "2021-04-12": 1440,
