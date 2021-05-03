@@ -170,9 +170,9 @@
     "url": "http://proxima01.its-telekom.eu/livewatch.php",
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
@@ -182,6 +182,7 @@
     "timeMonth": 861,
     "timeYear": 830,
     "dailyMinutesDown": {
+      "2021-05-03": 0,
       "2021-04-27": 60,
       "2021-02-10": 26,
       "2021-01-27": 25,
@@ -205,7 +206,7 @@
     "timeMonth": 987,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2021-05-03": 901,
+      "2021-05-03": 946,
       "2021-05-02": 1440,
       "2021-05-01": 1440,
       "2021-04-30": 1440,
