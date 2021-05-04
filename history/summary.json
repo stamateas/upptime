@@ -178,7 +178,7 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "28.75%",
+    "uptimeDay": "29.91%",
     "uptimeWeek": "89.82%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "99.25%",
@@ -213,7 +213,7 @@
     "timeMonth": 994,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2021-05-04": 901,
+      "2021-05-04": 963,
       "2021-05-03": 1440,
       "2021-05-02": 1440,
       "2021-05-01": 1440,
