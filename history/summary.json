@@ -113,7 +113,7 @@
     "status": "up",
     "uptime": "95.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "69.40%",
+    "uptimeWeek": "69.49%",
     "uptimeMonth": "79.08%",
     "uptimeYear": "95.33%",
     "time": 706,
@@ -243,7 +243,7 @@
     "timeMonth": 997,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2021-06-04": 753,
+      "2021-06-04": 762,
       "2021-06-03": 1440,
       "2021-06-02": 1440,
       "2021-06-01": 1440,
