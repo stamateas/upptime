@@ -35,8 +35,8 @@
     "slug": "git-lab-server",
     "status": "degraded",
     "uptime": "96.94%",
-    "uptimeDay": "79.78%",
-    "uptimeWeek": "78.82%",
+    "uptimeDay": "79.63%",
+    "uptimeWeek": "78.80%",
     "uptimeMonth": "84.84%",
     "uptimeYear": "96.94%",
     "time": 4409,
@@ -45,7 +45,7 @@
     "timeMonth": 5520,
     "timeYear": 4409,
     "dailyMinutesDown": {
-      "2021-06-13": 128,
+      "2021-06-13": 130,
       "2021-06-12": 224,
       "2021-06-11": 382,
       "2021-06-10": 250,
@@ -233,7 +233,7 @@
     "timeMonth": 1048,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2021-06-13": 239,
+      "2021-06-13": 241,
       "2021-06-12": 1440,
       "2021-06-11": 1440,
       "2021-06-10": 1440,
