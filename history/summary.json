@@ -136,7 +136,7 @@
     "slug": "authentication-server",
     "status": "up",
     "uptime": "97.02%",
-    "uptimeDay": "20.60%",
+    "uptimeDay": "21.46%",
     "uptimeWeek": "63.12%",
     "uptimeMonth": "87.22%",
     "uptimeYear": "97.02%",
@@ -238,7 +238,7 @@
     "timeMonth": 1063,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2021-06-17": 956,
+      "2021-06-17": 968,
       "2021-06-16": 1440,
       "2021-06-15": 1440,
       "2021-06-14": 1440,
