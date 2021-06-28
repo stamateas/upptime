@@ -37,17 +37,17 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "98.44%",
-    "uptimeDay": "85.95%",
-    "uptimeWeek": "82.69%",
-    "uptimeMonth": "91.50%",
+    "uptimeDay": "86.33%",
+    "uptimeWeek": "83.07%",
+    "uptimeMonth": "91.47%",
     "uptimeYear": "98.44%",
     "time": 5205,
-    "timeDay": 6097,
-    "timeWeek": 6197,
+    "timeDay": 6077,
+    "timeWeek": 6195,
     "timeMonth": 5874,
     "timeYear": 5205,
     "dailyMinutesDown": {
-      "2021-06-28": 88,
+      "2021-06-28": 82,
       "2021-06-27": 192,
       "2021-06-26": 269,
       "2021-06-25": 432,
@@ -62,7 +62,7 @@
       "2021-06-16": 60,
       "2021-06-15": 127,
       "2021-06-14": 136,
-      "2021-06-13": 1
+      "2021-06-13": 19
     }
   },
   {
@@ -102,7 +102,7 @@
     "uptime": "96.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.47%",
+    "uptimeMonth": "92.61%",
     "uptimeYear": "96.00%",
     "time": 701,
     "timeDay": 884,
@@ -236,7 +236,7 @@
     "timeMonth": 1107,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2021-06-28": 541,
+      "2021-06-28": 601,
       "2021-06-27": 1440,
       "2021-06-26": 1440,
       "2021-06-25": 1440,
