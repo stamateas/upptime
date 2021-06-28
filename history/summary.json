@@ -44,7 +44,7 @@
     "time": 5195,
     "timeDay": 6105,
     "timeWeek": 6197,
-    "timeMonth": 5877,
+    "timeMonth": 5869,
     "timeYear": 5195,
     "dailyMinutesDown": {
       "2021-06-27": 192,
@@ -101,7 +101,7 @@
     "uptime": "95.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.48%",
+    "uptimeMonth": "91.56%",
     "uptimeYear": "95.99%",
     "time": 701,
     "timeDay": 884,
@@ -235,7 +235,7 @@
     "timeMonth": 1107,
     "timeYear": 921,
     "dailyMinutesDown": {
-      "2021-06-28": 107,
+      "2021-06-28": 141,
       "2021-06-27": 1440,
       "2021-06-26": 1440,
       "2021-06-25": 1440,
