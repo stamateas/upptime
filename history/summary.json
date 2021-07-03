@@ -35,17 +35,17 @@
     "url": "https://gitlab01.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
-    "status": "up",
-    "uptime": "98.59%",
-    "uptimeDay": "81.23%",
+    "status": "degraded",
+    "uptime": "98.60%",
+    "uptimeDay": "81.21%",
     "uptimeWeek": "83.60%",
-    "uptimeMonth": "92.09%",
-    "uptimeYear": "98.59%",
-    "time": 5381,
-    "timeDay": 6156,
-    "timeWeek": 6203,
-    "timeMonth": 5966,
-    "timeYear": 5381,
+    "uptimeMonth": "92.15%",
+    "uptimeYear": "98.60%",
+    "time": 5386,
+    "timeDay": 6278,
+    "timeWeek": 6219,
+    "timeMonth": 5972,
+    "timeYear": 5386,
     "dailyMinutesDown": {
       "2021-07-03": 69,
       "2021-07-02": 235,
@@ -61,7 +61,7 @@
       "2021-06-22": 146,
       "2021-06-21": 332,
       "2021-06-20": 360,
-      "2021-06-19": 45
+      "2021-06-19": 16
     }
   },
   {
@@ -235,7 +235,7 @@
     "timeMonth": 1096,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2021-07-03": 241,
+      "2021-07-03": 264,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
       "2021-06-30": 1440,
