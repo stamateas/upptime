@@ -38,8 +38,8 @@
     "status": "degraded",
     "uptime": "98.61%",
     "uptimeDay": "85.28%",
-    "uptimeWeek": "84.28%",
-    "uptimeMonth": "92.20%",
+    "uptimeWeek": "84.20%",
+    "uptimeMonth": "92.18%",
     "uptimeYear": "98.61%",
     "time": 5382,
     "timeDay": 6138,
@@ -47,7 +47,7 @@
     "timeMonth": 5964,
     "timeYear": 5382,
     "dailyMinutesDown": {
-      "2021-07-03": 0,
+      "2021-07-03": 8,
       "2021-07-02": 235,
       "2021-07-01": 300,
       "2021-06-30": 230,
@@ -235,7 +235,7 @@
     "timeMonth": 1096,
     "timeYear": 923,
     "dailyMinutesDown": {
-      "2021-07-03": 125,
+      "2021-07-03": 132,
       "2021-07-02": 1440,
       "2021-07-01": 1440,
       "2021-06-30": 1440,
