@@ -43,7 +43,7 @@
     "uptimeYear": "98.76%",
     "time": 5621,
     "timeDay": 6291,
-    "timeWeek": 6200,
+    "timeWeek": 6216,
     "timeMonth": 6152,
     "timeYear": 5621,
     "dailyMinutesDown": {
@@ -69,8 +69,8 @@
     "slug": "jenkins-server",
     "status": "up",
     "uptime": "94.46%",
-    "uptimeDay": "62.86%",
-    "uptimeWeek": "8.98%",
+    "uptimeDay": "63.03%",
+    "uptimeWeek": "9.00%",
     "uptimeMonth": "68.10%",
     "uptimeYear": "94.46%",
     "time": 566,
@@ -245,7 +245,7 @@
     "timeMonth": 1073,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2021-07-14": 418,
+      "2021-07-14": 421,
       "2021-07-13": 1440,
       "2021-07-12": 1440,
       "2021-07-11": 1440,
