@@ -161,7 +161,7 @@
     "time": 222,
     "timeDay": 159,
     "timeWeek": 143,
-    "timeMonth": 134,
+    "timeMonth": 136,
     "timeYear": 222,
     "dailyMinutesDown": {
       "2021-07-17": 80,
@@ -264,7 +264,7 @@
     "timeMonth": 1080,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2021-08-29": 301,
+      "2021-08-29": 361,
       "2021-08-28": 1440,
       "2021-08-27": 1440,
       "2021-08-26": 1440,
