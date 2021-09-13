@@ -13,7 +13,7 @@
     "time": 1018,
     "timeDay": 989,
     "timeWeek": 964,
-    "timeMonth": 923,
+    "timeMonth": 941,
     "timeYear": 1018,
     "dailyMinutesDown": {
       "2021-08-16": 18,
@@ -48,7 +48,7 @@
     "time": 5541,
     "timeDay": 1955,
     "timeWeek": 1730,
-    "timeMonth": 2233,
+    "timeMonth": 1926,
     "timeYear": 5541,
     "dailyMinutesDown": {
       "2021-08-20": 20,
@@ -264,7 +264,7 @@
     "timeMonth": 1116,
     "timeYear": 972,
     "dailyMinutesDown": {
-      "2021-09-13": 481,
+      "2021-09-13": 541,
       "2021-09-12": 1440,
       "2021-09-11": 1440,
       "2021-09-10": 1440,
