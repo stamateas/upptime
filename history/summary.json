@@ -6,7 +6,7 @@
     "slug": "recatt-server",
     "status": "up",
     "uptime": "98.05%",
-    "uptimeDay": "22.18%",
+    "uptimeDay": "22.35%",
     "uptimeWeek": "34.42%",
     "uptimeMonth": "84.62%",
     "uptimeYear": "98.05%",
@@ -50,17 +50,17 @@
     "url": "https://gitlab01.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.98%",
-    "uptimeDay": "86.24%",
+    "uptimeDay": "86.21%",
     "uptimeWeek": "85.89%",
     "uptimeMonth": "95.87%",
     "uptimeYear": "98.98%",
-    "time": 5424,
-    "timeDay": 4836,
-    "timeWeek": 5264,
-    "timeMonth": 4846,
-    "timeYear": 5424,
+    "time": 5425,
+    "timeDay": 4937,
+    "timeWeek": 5277,
+    "timeMonth": 4860,
+    "timeYear": 5425,
     "dailyMinutesDown": {
       "2021-10-22": 167,
       "2021-10-21": 329,
@@ -86,8 +86,7 @@
       "2021-07-14": 408,
       "2021-07-13": 423,
       "2021-07-12": 226,
-      "2021-07-11": 158,
-      "2021-07-10": 23
+      "2021-07-11": 158
     }
   },
   {
@@ -285,7 +284,7 @@
     "timeMonth": 901,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2021-10-22": 1030,
+      "2021-10-22": 1033,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
       "2021-10-19": 1440,
@@ -329,7 +328,7 @@
     "timeMonth": 1466,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2021-10-22": 1030,
+      "2021-10-22": 1033,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
       "2021-10-19": 1440,
