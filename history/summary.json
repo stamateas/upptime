@@ -6,7 +6,7 @@
     "slug": "recatt-server",
     "status": "up",
     "uptime": "98.05%",
-    "uptimeDay": "37.14%",
+    "uptimeDay": "38.21%",
     "uptimeWeek": "34.42%",
     "uptimeMonth": "84.62%",
     "uptimeYear": "98.05%",
@@ -52,9 +52,9 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "98.98%",
-    "uptimeDay": "84.95%",
-    "uptimeWeek": "85.54%",
-    "uptimeMonth": "95.79%",
+    "uptimeDay": "85.95%",
+    "uptimeWeek": "85.69%",
+    "uptimeMonth": "95.83%",
     "uptimeYear": "98.98%",
     "time": 5423,
     "timeDay": 4938,
@@ -62,7 +62,7 @@
     "timeMonth": 4857,
     "timeYear": 5423,
     "dailyMinutesDown": {
-      "2021-10-22": 202,
+      "2021-10-22": 188,
       "2021-10-21": 329,
       "2021-10-20": 244,
       "2021-10-19": 94,
@@ -86,7 +86,7 @@
       "2021-07-14": 408,
       "2021-07-13": 423,
       "2021-07-12": 226,
-      "2021-07-11": 136
+      "2021-07-11": 158
     }
   },
   {
@@ -276,7 +276,7 @@
     "uptime": "94.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "53.25%",
+    "uptimeMonth": "53.22%",
     "uptimeYear": "94.11%",
     "time": 853,
     "timeDay": 0,
@@ -284,7 +284,7 @@
     "timeMonth": 901,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2021-10-22": 1246,
+      "2021-10-22": 1261,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
       "2021-10-19": 1440,
@@ -328,7 +328,7 @@
     "timeMonth": 1466,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2021-10-22": 1246,
+      "2021-10-22": 1261,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
       "2021-10-19": 1440,
