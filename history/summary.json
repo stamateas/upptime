@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "98.09%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "76.23%",
+    "uptimeWeek": "76.29%",
     "uptimeMonth": "84.62%",
     "uptimeYear": "98.09%",
     "time": 1005,
@@ -51,18 +51,18 @@
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
     "status": "up",
-    "uptime": "99.08%",
-    "uptimeDay": "93.25%",
-    "uptimeWeek": "88.30%",
-    "uptimeMonth": "95.06%",
-    "uptimeYear": "99.08%",
+    "uptime": "99.06%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "88.35%",
+    "uptimeMonth": "95.08%",
+    "uptimeYear": "99.06%",
     "time": 5415,
     "timeDay": 5136,
     "timeWeek": 5215,
     "timeMonth": 5087,
     "timeYear": 5415,
     "dailyMinutesDown": {
-      "2021-10-27": 82,
+      "2021-10-27": 76,
       "2021-10-26": 145,
       "2021-10-25": 92,
       "2021-10-24": 154,
@@ -88,7 +88,7 @@
       "2021-07-17": 169,
       "2021-07-16": 323,
       "2021-07-15": 92,
-      "2021-07-14": 305
+      "2021-07-14": 408
     }
   },
   {
@@ -148,7 +148,7 @@
     "uptimeYear": "97.30%",
     "time": 786,
     "timeDay": 383,
-    "timeWeek": 593,
+    "timeWeek": 613,
     "timeMonth": 1126,
     "timeYear": 786,
     "dailyMinutesDown": {
@@ -196,7 +196,7 @@
     "uptimeYear": "97.57%",
     "time": 254,
     "timeDay": 137,
-    "timeWeek": 588,
+    "timeWeek": 601,
     "timeMonth": 454,
     "timeYear": 254,
     "dailyMinutesDown": {
@@ -246,7 +246,7 @@
     "uptimeYear": "99.39%",
     "time": 856,
     "timeDay": 723,
-    "timeWeek": 788,
+    "timeWeek": 814,
     "timeMonth": 860,
     "timeYear": 856,
     "dailyMinutesDown": {
@@ -287,7 +287,7 @@
     "uptime": "92.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.93%",
+    "uptimeMonth": "36.92%",
     "uptimeYear": "92.48%",
     "time": 853,
     "timeDay": 0,
@@ -295,7 +295,7 @@
     "timeMonth": 927,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2021-10-27": 1195,
+      "2021-10-27": 1201,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
       "2021-10-24": 1440,
@@ -344,7 +344,7 @@
     "timeMonth": 1555,
     "timeYear": 1037,
     "dailyMinutesDown": {
-      "2021-10-27": 1195,
+      "2021-10-27": 1201,
       "2021-10-26": 1440,
       "2021-10-25": 1440,
       "2021-10-24": 1440,
