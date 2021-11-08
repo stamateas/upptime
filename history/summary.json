@@ -52,9 +52,9 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "90.59%",
-    "uptimeMonth": "93.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.67%",
+    "uptimeMonth": "93.59%",
     "uptimeYear": "99.35%",
     "time": 5399,
     "timeDay": 5046,
@@ -62,7 +62,6 @@
     "timeMonth": 5259,
     "timeYear": 5399,
     "dailyMinutesDown": {
-      "2021-11-08": 8,
       "2021-11-07": 71,
       "2021-11-06": 156,
       "2021-11-05": 177,
@@ -81,7 +80,7 @@
       "2021-10-23": 89,
       "2021-10-22": 188,
       "2021-10-21": 329,
-      "2021-10-20": 105
+      "2021-10-20": 121
     }
   },
   {
@@ -133,10 +132,10 @@
     "url": "https://reporting.its-telekom.eu/",
     "icon": "https://favicons.githubusercontent.com/reporting.its-telekom.eu",
     "slug": "report-portal-server",
-    "status": "up",
+    "status": "down",
     "uptime": "97.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.35%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "97.38%",
     "time": 769,
@@ -145,6 +144,7 @@
     "timeMonth": 963,
     "timeYear": 769,
     "dailyMinutesDown": {
+      "2021-11-08": 1,
       "2021-11-06": 41,
       "2021-11-05": 23,
       "2021-11-01": 21,
@@ -186,10 +186,10 @@
     "url": "https://auth.its-telekom.eu/",
     "icon": "https://favicons.githubusercontent.com/auth.its-telekom.eu",
     "slug": "authentication-server",
-    "status": "up",
+    "status": "down",
     "uptime": "97.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.21%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.20%",
     "uptimeMonth": "93.21%",
     "uptimeYear": "97.60%",
     "time": 265,
@@ -198,6 +198,7 @@
     "timeMonth": 463,
     "timeYear": 265,
     "dailyMinutesDown": {
+      "2021-11-08": 0,
       "2021-11-06": 39,
       "2021-11-04": 21,
       "2021-11-03": 21,
@@ -307,7 +308,7 @@
     "timeMonth": 0,
     "timeYear": 853,
     "dailyMinutesDown": {
-      "2021-11-08": 877,
+      "2021-11-08": 886,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
       "2021-11-05": 1440,
@@ -368,7 +369,7 @@
     "timeMonth": 1764,
     "timeYear": 1076,
     "dailyMinutesDown": {
-      "2021-11-08": 877,
+      "2021-11-08": 886,
       "2021-11-07": 1440,
       "2021-11-06": 1440,
       "2021-11-05": 1440,
