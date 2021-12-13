@@ -1,7 +1,7 @@
 url: https://auth.its-telekom.eu/
-status: degraded
-code: 503
-responseTime: 5721
-lastUpdated: 2021-12-13T05:51:41.891Z
+status: up
+code: 200
+responseTime: 215
+lastUpdated: 2021-12-13T05:57:58.265Z
 startTime: Mon Jan 11 2021 09:18:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
