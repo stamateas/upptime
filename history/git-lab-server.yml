@@ -1,7 +1,7 @@
 url: https://gitlab01.its-telekom.eu
-status: degraded
+status: up
 code: 200
-responseTime: 6031
-lastUpdated: 2021-12-23T14:14:15.444Z
+responseTime: 1187
+lastUpdated: 2021-12-23T14:35:53.091Z
 startTime: Wed Jan 13 2021 09:48:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
