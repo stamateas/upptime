@@ -14,7 +14,7 @@
     "timeDay": 1130,
     "timeWeek": 982,
     "timeMonth": 899,
-    "timeYear": 1025,
+    "timeYear": 1021,
     "dailyMinutesDown": {
       "2022-01-11": 22,
       "2021-12-18": 43,
@@ -58,16 +58,17 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "95.79%",
-    "uptimeMonth": "94.48%",
+    "uptimeDay": "94.96%",
+    "uptimeWeek": "95.32%",
+    "uptimeMonth": "94.42%",
     "uptimeYear": "99.09%",
     "time": 5156,
     "timeDay": 3402,
     "timeWeek": 3865,
-    "timeMonth": 3895,
-    "timeYear": 5157,
+    "timeMonth": 3894,
+    "timeYear": 5158,
     "dailyMinutesDown": {
+      "2022-01-13": 47,
       "2022-01-12": 89,
       "2022-01-11": 83,
       "2022-01-10": 94,
@@ -103,7 +104,7 @@
       "2021-11-26": 730,
       "2021-11-25": 779,
       "2021-11-22": 122,
-      "2021-11-21": 269
+      "2021-11-21": 210
     }
   },
   {
@@ -121,7 +122,7 @@
     "timeDay": 762,
     "timeWeek": 610,
     "timeMonth": 670,
-    "timeYear": 572,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2021-12-18": 23,
       "2021-11-22": 51,
@@ -165,7 +166,7 @@
     "uptime": "90.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "83.37%",
+    "uptimeMonth": "83.48%",
     "uptimeYear": "90.60%",
     "time": 751,
     "timeDay": 614,
@@ -250,10 +251,10 @@
     "icon": "https://favicons.githubusercontent.com/auth.its-telekom.eu",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "90.88%",
+    "uptime": "90.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.68%",
+    "uptimeMonth": "14.57%",
     "uptimeYear": "90.98%",
     "time": 311,
     "timeDay": 551,
@@ -261,7 +262,7 @@
     "timeMonth": 323,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2022-01-13": 601,
+      "2022-01-13": 648,
       "2022-01-12": 1440,
       "2022-01-11": 1440,
       "2022-01-10": 1440,
@@ -419,19 +420,19 @@
     "url": "http://proxima01.its-telekom.eu/livewatch.php",
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "92.68%",
+    "uptimeDay": "92.63%",
     "uptimeWeek": "90.10%",
-    "uptimeMonth": "94.07%",
+    "uptimeMonth": "94.13%",
     "uptimeYear": "99.51%",
     "time": 814,
     "timeDay": 722,
     "timeWeek": 753,
     "timeMonth": 766,
-    "timeYear": 814,
+    "timeYear": 811,
     "dailyMinutesDown": {
-      "2022-01-13": 62,
+      "2022-01-13": 63,
       "2022-01-12": 43,
       "2022-01-11": 304,
       "2022-01-10": 114,
@@ -450,7 +451,7 @@
       "2021-12-28": 149,
       "2021-12-27": 211,
       "2021-12-26": 53,
-      "2021-12-25": 131
+      "2021-12-25": 102
     }
   },
   {
@@ -470,7 +471,7 @@
     "timeMonth": 1522,
     "timeYear": 1151,
     "dailyMinutesDown": {
-      "2022-01-13": 601,
+      "2022-01-13": 649,
       "2022-01-12": 1440,
       "2022-01-11": 1440,
       "2022-01-10": 1440,
