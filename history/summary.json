@@ -58,7 +58,7 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "65.66%",
+    "uptimeDay": "65.67%",
     "uptimeWeek": "91.34%",
     "uptimeMonth": "93.47%",
     "uptimeYear": "99.03%",
@@ -263,7 +263,7 @@
     "timeMonth": 330,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2022-01-14": 600,
+      "2022-01-14": 601,
       "2022-01-13": 1440,
       "2022-01-12": 1440,
       "2022-01-11": 1440,
@@ -424,18 +424,18 @@
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "88.13%",
-    "uptimeWeek": "89.72%",
-    "uptimeMonth": "94.06%",
-    "uptimeYear": "99.51%",
+    "uptime": "99.50%",
+    "uptimeDay": "88.57%",
+    "uptimeWeek": "89.78%",
+    "uptimeMonth": "94.04%",
+    "uptimeYear": "99.50%",
     "time": 812,
     "timeDay": 722,
     "timeWeek": 751,
     "timeMonth": 765,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2022-01-14": 99,
+      "2022-01-14": 93,
       "2022-01-13": 134,
       "2022-01-12": 43,
       "2022-01-11": 304,
@@ -454,7 +454,7 @@
       "2021-12-29": 34,
       "2021-12-28": 149,
       "2021-12-27": 211,
-      "2021-12-26": 16
+      "2021-12-26": 33
     }
   },
   {
@@ -474,7 +474,7 @@
     "timeMonth": 1514,
     "timeYear": 1150,
     "dailyMinutesDown": {
-      "2022-01-14": 600,
+      "2022-01-14": 601,
       "2022-01-13": 1440,
       "2022-01-12": 1440,
       "2022-01-11": 1440,
