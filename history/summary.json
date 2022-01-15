@@ -55,18 +55,19 @@
     "url": "https://gitlab01.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "91.57%",
-    "uptimeMonth": "93.54%",
-    "uptimeYear": "99.02%",
-    "time": 5144,
-    "timeDay": 3794,
-    "timeWeek": 3830,
-    "timeMonth": 3879,
-    "timeYear": 5155,
+    "status": "degraded",
+    "uptime": "99.04%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "91.56%",
+    "uptimeMonth": "93.55%",
+    "uptimeYear": "99.03%",
+    "time": 5145,
+    "timeDay": 3835,
+    "timeWeek": 3855,
+    "timeMonth": 3880,
+    "timeYear": 5156,
     "dailyMinutesDown": {
+      "2022-01-15": 1,
       "2022-01-14": 101,
       "2022-01-13": 448,
       "2022-01-12": 89,
@@ -104,7 +105,7 @@
       "2021-11-26": 730,
       "2021-11-25": 779,
       "2021-11-22": 122,
-      "2021-11-21": 87
+      "2021-11-21": 21
     }
   },
   {
@@ -166,7 +167,7 @@
     "uptime": "90.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.20%",
+    "uptimeMonth": "90.22%",
     "uptimeYear": "90.60%",
     "time": 751,
     "timeDay": 227,
@@ -254,7 +255,7 @@
     "uptime": "90.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "7.85%",
+    "uptimeMonth": "7.83%",
     "uptimeYear": "90.41%",
     "time": 311,
     "timeDay": 281,
@@ -262,7 +263,7 @@
     "timeMonth": 324,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2022-01-15": 713,
+      "2022-01-15": 720,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
       "2022-01-12": 1440,
@@ -424,10 +425,10 @@
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
     "status": "up",
-    "uptime": "99.52%",
-    "uptimeDay": "92.16%",
-    "uptimeWeek": "90.10%",
-    "uptimeMonth": "94.16%",
+    "uptime": "99.51%",
+    "uptimeDay": "92.61%",
+    "uptimeWeek": "90.17%",
+    "uptimeMonth": "94.12%",
     "uptimeYear": "99.51%",
     "time": 812,
     "timeDay": 782,
@@ -435,7 +436,7 @@
     "timeMonth": 766,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2022-01-15": 57,
+      "2022-01-15": 50,
       "2022-01-14": 149,
       "2022-01-13": 134,
       "2022-01-12": 43,
@@ -454,7 +455,7 @@
       "2021-12-30": 98,
       "2021-12-29": 34,
       "2021-12-28": 149,
-      "2021-12-27": 78
+      "2021-12-27": 103
     }
   },
   {
@@ -474,7 +475,7 @@
     "timeMonth": 1501,
     "timeYear": 1149,
     "dailyMinutesDown": {
-      "2022-01-15": 713,
+      "2022-01-15": 720,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
       "2022-01-12": 1440,
