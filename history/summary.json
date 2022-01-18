@@ -56,9 +56,9 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "94.68%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "93.41%",
+    "uptimeDay": "95.08%",
+    "uptimeWeek": "90.28%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.35%",
     "time": 5128,
     "timeDay": 3865,
@@ -66,7 +66,7 @@
     "timeMonth": 3870,
     "timeYear": 5139,
     "dailyMinutesDown": {
-      "2022-01-18": 77,
+      "2022-01-18": 71,
       "2022-01-17": 89,
       "2022-01-16": 83,
       "2022-01-15": 49,
@@ -101,7 +101,7 @@
       "2021-12-15": 107,
       "2021-12-14": 75,
       "2021-12-13": 131,
-      "2021-12-12": 33
+      "2021-12-12": 48
     }
   },
   {
@@ -257,7 +257,7 @@
     "timeMonth": 313,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2022-01-18": 836,
+      "2022-01-18": 841,
       "2022-01-17": 1440,
       "2022-01-16": 1440,
       "2022-01-15": 1440,
@@ -342,7 +342,7 @@
     "uptime": "93.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "92.98%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "93.49%",
     "time": 818,
     "timeDay": 160,
@@ -421,7 +421,7 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "84.15%",
+    "uptimeDay": "84.21%",
     "uptimeWeek": "91.07%",
     "uptimeMonth": "94.14%",
     "uptimeYear": "99.51%",
@@ -469,7 +469,7 @@
     "timeMonth": 1614,
     "timeYear": 1159,
     "dailyMinutesDown": {
-      "2022-01-18": 836,
+      "2022-01-18": 841,
       "2022-01-17": 1440,
       "2022-01-16": 1440,
       "2022-01-15": 1440,
