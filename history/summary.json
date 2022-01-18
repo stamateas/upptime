@@ -57,7 +57,7 @@
     "status": "up",
     "uptime": "99.36%",
     "uptimeDay": "95.98%",
-    "uptimeWeek": "90.50%",
+    "uptimeWeek": "90.57%",
     "uptimeMonth": "93.46%",
     "uptimeYear": "99.35%",
     "time": 5130,
@@ -162,7 +162,7 @@
     "uptime": "90.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.26%",
+    "uptimeMonth": "99.27%",
     "uptimeYear": "90.61%",
     "time": 751,
     "timeDay": 1114,
@@ -257,7 +257,7 @@
     "timeMonth": 313,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2022-01-18": 361,
+      "2022-01-18": 367,
       "2022-01-17": 1440,
       "2022-01-16": 1440,
       "2022-01-15": 1440,
@@ -419,11 +419,11 @@
     "url": "http://proxima01.its-telekom.eu/livewatch.php",
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "87.77%",
-    "uptimeWeek": "90.76%",
-    "uptimeMonth": "94.11%",
+    "uptimeDay": "87.73%",
+    "uptimeWeek": "90.75%",
+    "uptimeMonth": "94.18%",
     "uptimeYear": "99.51%",
     "time": 814,
     "timeDay": 853,
@@ -431,7 +431,7 @@
     "timeMonth": 774,
     "timeYear": 805,
     "dailyMinutesDown": {
-      "2022-01-18": 100,
+      "2022-01-18": 101,
       "2022-01-17": 95,
       "2022-01-16": 79,
       "2022-01-15": 108,
@@ -450,7 +450,7 @@
       "2022-01-02": 122,
       "2022-01-01": 104,
       "2021-12-31": 111,
-      "2021-12-30": 54
+      "2021-12-30": 24
     }
   },
   {
@@ -470,7 +470,7 @@
     "timeMonth": 1614,
     "timeYear": 1159,
     "dailyMinutesDown": {
-      "2022-01-18": 361,
+      "2022-01-18": 368,
       "2022-01-17": 1440,
       "2022-01-16": 1440,
       "2022-01-15": 1440,
