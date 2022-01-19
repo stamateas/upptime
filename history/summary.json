@@ -250,9 +250,9 @@
     "slug": "authentication-server",
     "status": "up",
     "uptime": "89.50%",
-    "uptimeDay": "72.70%",
-    "uptimeWeek": "10.39%",
-    "uptimeMonth": "0.48%",
+    "uptimeDay": "72.84%",
+    "uptimeWeek": "10.41%",
+    "uptimeMonth": "0.49%",
     "uptimeYear": "89.43%",
     "time": 320,
     "timeDay": 2184,
@@ -346,7 +346,7 @@
     "uptime": "93.52%",
     "uptimeDay": "94.98%",
     "uptimeWeek": "99.07%",
-    "uptimeMonth": "97.07%",
+    "uptimeMonth": "97.08%",
     "uptimeYear": "93.47%",
     "time": 817,
     "timeDay": 597,
@@ -426,9 +426,9 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "85.58%",
-    "uptimeWeek": "89.67%",
-    "uptimeMonth": "93.94%",
+    "uptimeDay": "86.15%",
+    "uptimeWeek": "89.73%",
+    "uptimeMonth": "93.88%",
     "uptimeYear": "99.49%",
     "time": 811,
     "timeDay": 736,
@@ -436,7 +436,7 @@
     "timeMonth": 772,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2022-01-19": 149,
+      "2022-01-19": 143,
       "2022-01-18": 327,
       "2022-01-17": 95,
       "2022-01-16": 79,
@@ -453,7 +453,7 @@
       "2022-01-05": 123,
       "2022-01-04": 144,
       "2022-01-03": 196,
-      "2022-01-02": 91
+      "2022-01-02": 122
     }
   },
   {
@@ -473,7 +473,7 @@
     "timeMonth": 1626,
     "timeYear": 1165,
     "dailyMinutesDown": {
-      "2022-01-19": 1259,
+      "2022-01-19": 1261,
       "2022-01-18": 1440,
       "2022-01-17": 1440,
       "2022-01-16": 1440,
