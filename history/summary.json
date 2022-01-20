@@ -57,9 +57,9 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "93.95%",
-    "uptimeMonth": "93.19%",
+    "uptimeDay": "97.69%",
+    "uptimeWeek": "94.00%",
+    "uptimeMonth": "93.21%",
     "uptimeYear": "99.34%",
     "time": 5115,
     "timeDay": 3922,
@@ -67,7 +67,7 @@
     "timeMonth": 3874,
     "timeYear": 5129,
     "dailyMinutesDown": {
-      "2022-01-20": 22,
+      "2022-01-20": 16,
       "2022-01-19": 155,
       "2022-01-18": 93,
       "2022-01-17": 89,
@@ -103,7 +103,7 @@
       "2021-12-16": 68,
       "2021-12-15": 107,
       "2021-12-14": 75,
-      "2021-12-13": 22
+      "2021-12-13": 39
     }
   },
   {
@@ -252,8 +252,8 @@
     "status": "up",
     "uptime": "89.53%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "22.82%",
-    "uptimeMonth": "3.35%",
+    "uptimeWeek": "22.91%",
+    "uptimeMonth": "3.36%",
     "uptimeYear": "89.43%",
     "time": 320,
     "timeDay": 281,
@@ -426,18 +426,18 @@
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "90.37%",
-    "uptimeMonth": "93.98%",
-    "uptimeYear": "99.50%",
+    "uptime": "99.50%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "90.42%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "99.49%",
     "time": 809,
-    "timeDay": 751,
+    "timeDay": 761,
     "timeWeek": 781,
     "timeMonth": 770,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2022-01-20": 22,
+      "2022-01-20": 17,
       "2022-01-19": 143,
       "2022-01-18": 327,
       "2022-01-17": 95,
@@ -455,7 +455,7 @@
       "2022-01-05": 123,
       "2022-01-04": 144,
       "2022-01-03": 196,
-      "2022-01-02": 56
+      "2022-01-02": 91
     }
   },
   {
@@ -475,7 +475,7 @@
     "timeMonth": 1625,
     "timeYear": 1174,
     "dailyMinutesDown": {
-      "2022-01-20": 1073,
+      "2022-01-20": 1081,
       "2022-01-19": 1440,
       "2022-01-18": 1440,
       "2022-01-17": 1440,
