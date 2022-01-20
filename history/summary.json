@@ -6,7 +6,7 @@
     "slug": "recatt-server",
     "status": "up",
     "uptime": "98.39%",
-    "uptimeDay": "98.31%",
+    "uptimeDay": "98.46%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "98.38%",
@@ -57,17 +57,16 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "94.33%",
-    "uptimeWeek": "89.78%",
-    "uptimeMonth": "93.18%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "89.89%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "99.33%",
     "time": 5119,
     "timeDay": 3887,
     "timeWeek": 3913,
     "timeMonth": 3875,
     "timeYear": 5132,
     "dailyMinutesDown": {
-      "2022-01-20": 12,
       "2022-01-19": 155,
       "2022-01-18": 93,
       "2022-01-17": 89,
@@ -103,7 +102,7 @@
       "2021-12-16": 68,
       "2021-12-15": 107,
       "2021-12-14": 75,
-      "2021-12-13": 39
+      "2021-12-13": 88
     }
   },
   {
@@ -251,9 +250,9 @@
     "slug": "authentication-server",
     "status": "up",
     "uptime": "89.51%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "13.96%",
-    "uptimeMonth": "1.30%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "13.98%",
+    "uptimeMonth": "1.31%",
     "uptimeYear": "89.43%",
     "time": 320,
     "timeDay": 1997,
@@ -347,7 +346,7 @@
     "uptime": "93.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
-    "uptimeMonth": "97.89%",
+    "uptimeMonth": "97.90%",
     "uptimeYear": "93.47%",
     "time": 816,
     "timeDay": 88,
@@ -427,9 +426,9 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "94.23%",
-    "uptimeWeek": "90.08%",
-    "uptimeMonth": "93.93%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "90.19%",
+    "uptimeMonth": "93.88%",
     "uptimeYear": "99.49%",
     "time": 811,
     "timeDay": 736,
@@ -437,7 +436,6 @@
     "timeMonth": 772,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2022-01-20": 12,
       "2022-01-19": 143,
       "2022-01-18": 327,
       "2022-01-17": 95,
@@ -455,7 +453,7 @@
       "2022-01-05": 123,
       "2022-01-04": 144,
       "2022-01-03": 196,
-      "2022-01-02": 91
+      "2022-01-02": 122
     }
   },
   {
@@ -475,7 +473,7 @@
     "timeMonth": 1625,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2022-01-20": 179,
+      "2022-01-20": 181,
       "2022-01-19": 1440,
       "2022-01-18": 1440,
       "2022-01-17": 1440,
