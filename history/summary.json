@@ -64,7 +64,7 @@
     "time": 5093,
     "timeDay": 3929,
     "timeWeek": 3889,
-    "timeMonth": 3872,
+    "timeMonth": 3875,
     "timeYear": 5108,
     "dailyMinutesDown": {
       "2022-01-23": 22,
@@ -253,8 +253,8 @@
     "status": "up",
     "uptime": "89.61%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "66.26%",
-    "uptimeMonth": "13.34%",
+    "uptimeWeek": "66.35%",
+    "uptimeMonth": "13.36%",
     "uptimeYear": "89.44%",
     "time": 320,
     "timeDay": 556,
@@ -427,17 +427,17 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "99.51%",
-    "uptimeDay": "93.32%",
-    "uptimeWeek": "91.91%",
-    "uptimeMonth": "93.98%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "93.75%",
+    "uptimeWeek": "91.97%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "99.49%",
     "time": 806,
     "timeDay": 716,
     "timeWeek": 767,
     "timeMonth": 767,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2022-01-23": 78,
+      "2022-01-23": 72,
       "2022-01-22": 106,
       "2022-01-21": 50,
       "2022-01-20": 17,
@@ -457,7 +457,7 @@
       "2022-01-06": 188,
       "2022-01-05": 123,
       "2022-01-04": 144,
-      "2022-01-03": 22
+      "2022-01-03": 60
     }
   },
   {
@@ -477,7 +477,7 @@
     "timeMonth": 1617,
     "timeYear": 1192,
     "dailyMinutesDown": {
-      "2022-01-23": 1132,
+      "2022-01-23": 1141,
       "2022-01-22": 1440,
       "2022-01-21": 1440,
       "2022-01-20": 1440,
