@@ -57,9 +57,9 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "95.40%",
-    "uptimeWeek": "95.02%",
-    "uptimeMonth": "93.45%",
+    "uptimeDay": "96.37%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "93.49%",
     "uptimeYear": "99.32%",
     "time": 5075,
     "timeDay": 3783,
@@ -67,7 +67,7 @@
     "timeMonth": 3889,
     "timeYear": 5091,
     "dailyMinutesDown": {
-      "2022-01-26": 48,
+      "2022-01-26": 34,
       "2022-01-25": 33,
       "2022-01-24": 242,
       "2022-01-23": 22,
@@ -104,7 +104,7 @@
       "2021-12-21": 254,
       "2021-12-20": 135,
       "2021-12-19": 38,
-      "2021-12-18": 83
+      "2021-12-18": 100
     }
   },
   {
@@ -255,7 +255,7 @@
     "uptime": "89.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "22.59%",
+    "uptimeMonth": "22.68%",
     "uptimeYear": "89.44%",
     "time": 320,
     "timeDay": 156,
@@ -433,7 +433,7 @@
     "uptimeMonth": "93.93%",
     "uptimeYear": "99.49%",
     "time": 806,
-    "timeDay": 822,
+    "timeDay": 759,
     "timeWeek": 774,
     "timeMonth": 764,
     "timeYear": 799,
@@ -479,7 +479,7 @@
     "timeMonth": 1395,
     "timeYear": 1199,
     "dailyMinutesDown": {
-      "2022-01-26": 864,
+      "2022-01-26": 901,
       "2022-01-25": 1440,
       "2022-01-24": 1440,
       "2022-01-23": 1440,
