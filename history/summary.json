@@ -243,10 +243,10 @@
     "icon": "https://favicons.githubusercontent.com/auth.its-telekom.eu",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "89.84%",
+    "uptime": "89.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "41.98%",
+    "uptimeMonth": "41.99%",
     "uptimeYear": "89.45%",
     "time": 321,
     "timeDay": 448,
@@ -417,10 +417,10 @@
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "94.37%",
-    "uptimeMonth": "94.15%",
+    "uptime": "99.53%",
+    "uptimeDay": "95.66%",
+    "uptimeWeek": "94.43%",
+    "uptimeMonth": "94.08%",
     "uptimeYear": "99.51%",
     "time": 794,
     "timeDay": 666,
@@ -428,7 +428,7 @@
     "timeMonth": 755,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2022-02-01": 68,
+      "2022-02-01": 62,
       "2022-01-31": 91,
       "2022-01-30": 124,
       "2022-01-29": 54,
@@ -451,7 +451,7 @@
       "2022-01-12": 43,
       "2022-01-11": 304,
       "2022-01-10": 114,
-      "2022-01-09": 41
+      "2022-01-09": 76
     }
   },
   {
@@ -471,7 +471,7 @@
     "timeMonth": 1434,
     "timeYear": 1207,
     "dailyMinutesDown": {
-      "2022-02-01": 716,
+      "2022-02-01": 722,
       "2022-01-31": 1440,
       "2022-01-30": 1440,
       "2022-01-29": 1440,
