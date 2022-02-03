@@ -55,17 +55,17 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "96.18%",
-    "uptimeWeek": "93.15%",
-    "uptimeMonth": "93.11%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "93.28%",
+    "uptimeMonth": "93.14%",
     "uptimeYear": "99.34%",
     "time": 5024,
-    "timeDay": 3960,
+    "timeDay": 3970,
     "timeWeek": 3979,
-    "timeMonth": 3919,
+    "timeMonth": 3918,
     "timeYear": 5050,
     "dailyMinutesDown": {
-      "2022-02-03": 56,
+      "2022-02-03": 43,
       "2022-02-02": 23,
       "2022-02-01": 70,
       "2022-01-31": 33,
@@ -100,7 +100,7 @@
       "2022-01-02": 114,
       "2022-01-01": 46,
       "2021-12-31": 86,
-      "2021-12-30": 51
+      "2021-12-30": 78
     }
   },
   {
@@ -246,7 +246,7 @@
     "uptime": "89.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "49.96%",
+    "uptimeMonth": "50.02%",
     "uptimeYear": "89.45%",
     "time": 322,
     "timeDay": 486,
@@ -418,18 +418,19 @@
     "url": "http://proxima01.its-telekom.eu/livewatch.php",
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "93.56%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "93.55%",
+    "uptimeMonth": "93.96%",
+    "uptimeYear": "99.50%",
     "time": 794,
-    "timeDay": 753,
+    "timeDay": 767,
     "timeWeek": 718,
     "timeMonth": 756,
     "timeYear": 787,
     "dailyMinutesDown": {
+      "2022-02-03": 1,
       "2022-02-02": 157,
       "2022-02-01": 132,
       "2022-01-31": 91,
@@ -453,7 +454,7 @@
       "2022-01-13": 134,
       "2022-01-12": 43,
       "2022-01-11": 304,
-      "2022-01-10": 46
+      "2022-01-10": 18
     }
   },
   {
@@ -473,7 +474,7 @@
     "timeMonth": 1449,
     "timeYear": 1209,
     "dailyMinutesDown": {
-      "2022-02-03": 1333,
+      "2022-02-03": 1360,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
