@@ -1,7 +1,7 @@
 url: https://mattermost.its-telekom.eu/
-status: degraded
+status: down
 code: 503
-responseTime: 7019
-lastUpdated: 2022-02-03T20:48:32.390Z
+responseTime: 740
+lastUpdated: 2022-02-03T20:54:19.079Z
 startTime: Thu Jan 07 2021 15:35:12 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
