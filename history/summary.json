@@ -60,8 +60,8 @@
     "uptimeMonth": "93.03%",
     "uptimeYear": "99.34%",
     "time": 5028,
-    "timeDay": 4048,
-    "timeWeek": 4010,
+    "timeDay": 3925,
+    "timeWeek": 3996,
     "timeMonth": 3922,
     "timeYear": 5053,
     "dailyMinutesDown": {
@@ -242,11 +242,11 @@
     "url": "https://auth.its-telekom.eu/",
     "icon": "https://favicons.githubusercontent.com/auth.its-telekom.eu",
     "slug": "authentication-server",
-    "status": "up",
+    "status": "down",
     "uptime": "89.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "47.90%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "47.95%",
     "uptimeYear": "89.45%",
     "time": 322,
     "timeDay": 491,
@@ -254,6 +254,7 @@
     "timeMonth": 509,
     "timeYear": 329,
     "dailyMinutesDown": {
+      "2022-02-03": 1,
       "2022-01-19": 212,
       "2022-01-18": 1440,
       "2022-01-17": 1440,
@@ -419,9 +420,9 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "95.82%",
-    "uptimeWeek": "93.10%",
-    "uptimeMonth": "93.93%",
+    "uptimeDay": "96.62%",
+    "uptimeWeek": "93.21%",
+    "uptimeMonth": "93.89%",
     "uptimeYear": "99.49%",
     "time": 795,
     "timeDay": 797,
@@ -429,7 +430,6 @@
     "timeMonth": 756,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2022-02-03": 12,
       "2022-02-02": 157,
       "2022-02-01": 132,
       "2022-01-31": 91,
@@ -453,7 +453,7 @@
       "2022-01-13": 134,
       "2022-01-12": 43,
       "2022-01-11": 304,
-      "2022-01-10": 18
+      "2022-01-10": 46
     }
   },
   {
@@ -473,7 +473,7 @@
     "timeMonth": 1449,
     "timeYear": 1209,
     "dailyMinutesDown": {
-      "2022-02-03": 428,
+      "2022-02-03": 452,
       "2022-02-02": 1440,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
