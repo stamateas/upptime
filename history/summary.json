@@ -14,7 +14,7 @@
     "timeDay": 809,
     "timeWeek": 800,
     "timeMonth": 1306,
-    "timeYear": 1052,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2022-01-19": 111,
       "2022-01-11": 22,
@@ -59,10 +59,10 @@
     "uptimeMonth": "93.47%",
     "uptimeYear": "99.33%",
     "time": 5012,
-    "timeDay": 3862,
+    "timeDay": 3837,
     "timeWeek": 3984,
     "timeMonth": 3931,
-    "timeYear": 5038,
+    "timeYear": 5039,
     "dailyMinutesDown": {
       "2022-02-05": 22,
       "2022-02-04": 101,
@@ -119,7 +119,7 @@
     "timeDay": 180,
     "timeWeek": 165,
     "timeMonth": 519,
-    "timeYear": 556,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2022-01-19": 74,
       "2021-12-18": 23,
@@ -166,7 +166,7 @@
     "timeDay": 916,
     "timeWeek": 837,
     "timeMonth": 990,
-    "timeYear": 768,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2022-01-24": 132,
       "2022-01-19": 63,
@@ -247,13 +247,13 @@
     "uptime": "89.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "56.61%",
+    "uptimeMonth": "56.65%",
     "uptimeYear": "89.45%",
     "time": 323,
     "timeDay": 548,
     "timeWeek": 494,
     "timeMonth": 525,
-    "timeYear": 330,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2022-01-19": 212,
       "2022-01-18": 1440,
@@ -421,9 +421,9 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "93.78%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "93.91%",
+    "uptimeMonth": "93.99%",
     "uptimeYear": "99.50%",
     "time": 794,
     "timeDay": 791,
@@ -431,7 +431,6 @@
     "timeMonth": 757,
     "timeYear": 788,
     "dailyMinutesDown": {
-      "2022-02-05": 13,
       "2022-02-04": 109,
       "2022-02-02": 157,
       "2022-02-01": 132,
@@ -455,7 +454,7 @@
       "2022-01-14": 149,
       "2022-01-13": 134,
       "2022-01-12": 43,
-      "2022-01-11": 180
+      "2022-01-11": 200
     }
   },
   {
@@ -473,9 +472,9 @@
     "timeDay": 1159,
     "timeWeek": 1181,
     "timeMonth": 1380,
-    "timeYear": 1210,
+    "timeYear": 1211,
     "dailyMinutesDown": {
-      "2022-02-05": 1365,
+      "2022-02-05": 1385,
       "2022-02-04": 1440,
       "2022-02-03": 1440,
       "2022-02-02": 1440,
