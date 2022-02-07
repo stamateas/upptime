@@ -52,16 +52,16 @@
     "url": "https://gitlab01.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.38%",
-    "uptimeDay": "94.36%",
-    "uptimeWeek": "96.30%",
+    "uptimeDay": "94.32%",
+    "uptimeWeek": "96.29%",
     "uptimeMonth": "93.37%",
     "uptimeYear": "99.34%",
-    "time": 5004,
-    "timeDay": 4076,
-    "timeWeek": 3976,
-    "timeMonth": 3937,
+    "time": 5005,
+    "timeDay": 4191,
+    "timeWeek": 3993,
+    "timeMonth": 3941,
     "timeYear": 5032,
     "dailyMinutesDown": {
       "2022-02-07": 38,
@@ -100,7 +100,7 @@
       "2022-01-05": 225,
       "2022-01-04": 41,
       "2022-01-03": 129,
-      "2022-01-02": 114
+      "2022-01-02": 98
     }
   },
   {
@@ -246,7 +246,7 @@
     "uptime": "90.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "61.51%",
+    "uptimeMonth": "61.54%",
     "uptimeYear": "89.45%",
     "time": 322,
     "timeDay": 152,
@@ -418,11 +418,11 @@
     "url": "http://proxima01.its-telekom.eu/livewatch.php",
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "92.72%",
-    "uptimeWeek": "94.40%",
-    "uptimeMonth": "94.10%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "94.39%",
+    "uptimeMonth": "94.17%",
     "uptimeYear": "99.51%",
     "time": 791,
     "timeDay": 679,
@@ -430,7 +430,7 @@
     "timeMonth": 754,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2022-02-07": 105,
+      "2022-02-07": 106,
       "2022-02-06": 44,
       "2022-02-04": 109,
       "2022-02-02": 157,
@@ -454,7 +454,7 @@
       "2022-01-15": 108,
       "2022-01-14": 149,
       "2022-01-13": 134,
-      "2022-01-12": 43
+      "2022-01-12": 15
     }
   },
   {
@@ -474,7 +474,7 @@
     "timeMonth": 1397,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2022-02-07": 630,
+      "2022-02-07": 647,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
