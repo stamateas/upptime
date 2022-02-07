@@ -52,17 +52,17 @@
     "url": "https://gitlab01.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.38%",
-    "uptimeDay": "94.36%",
+    "uptimeDay": "94.33%",
     "uptimeWeek": "96.30%",
     "uptimeMonth": "93.37%",
     "uptimeYear": "99.34%",
-    "time": 5003,
-    "timeDay": 3988,
-    "timeWeek": 3976,
-    "timeMonth": 3931,
-    "timeYear": 5031,
+    "time": 5004,
+    "timeDay": 4169,
+    "timeWeek": 4002,
+    "timeMonth": 3943,
+    "timeYear": 5032,
     "dailyMinutesDown": {
       "2022-02-07": 38,
       "2022-02-06": 75,
@@ -100,7 +100,7 @@
       "2022-01-05": 225,
       "2022-01-04": 41,
       "2022-01-03": 129,
-      "2022-01-02": 114
+      "2022-01-02": 98
     }
   },
   {
@@ -246,7 +246,7 @@
     "uptime": "90.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.02%",
+    "uptimeMonth": "62.09%",
     "uptimeYear": "89.45%",
     "time": 322,
     "timeDay": 152,
@@ -420,17 +420,17 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "91.71%",
-    "uptimeWeek": "94.41%",
-    "uptimeMonth": "94.14%",
+    "uptimeDay": "92.72%",
+    "uptimeWeek": "94.56%",
+    "uptimeMonth": "94.10%",
     "uptimeYear": "99.51%",
     "time": 791,
     "timeDay": 677,
-    "timeWeek": 749,
+    "timeWeek": 750,
     "timeMonth": 753,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2022-02-07": 120,
+      "2022-02-07": 105,
       "2022-02-06": 44,
       "2022-02-04": 109,
       "2022-02-02": 157,
@@ -454,7 +454,7 @@
       "2022-01-15": 108,
       "2022-01-14": 149,
       "2022-01-13": 134,
-      "2022-01-12": 15
+      "2022-01-12": 43
     }
   },
   {
@@ -474,7 +474,7 @@
     "timeMonth": 1397,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2022-02-07": 854,
+      "2022-02-07": 888,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
