@@ -12,7 +12,7 @@
     "uptimeYear": "98.40%",
     "time": 1098,
     "timeDay": 937,
-    "timeWeek": 1943,
+    "timeWeek": 2024,
     "timeMonth": 1679,
     "timeYear": 1100,
     "dailyMinutesDown": {
@@ -52,16 +52,16 @@
     "url": "https://gitlab01.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.38%",
-    "uptimeDay": "94.17%",
+    "uptimeDay": "95.49%",
     "uptimeWeek": "96.04%",
     "uptimeMonth": "93.31%",
-    "uptimeYear": "99.33%",
-    "time": 5001,
-    "timeDay": 3751,
-    "timeWeek": 3959,
-    "timeMonth": 3934,
+    "uptimeYear": "99.34%",
+    "time": 5002,
+    "timeDay": 3985,
+    "timeWeek": 3971,
+    "timeMonth": 3937,
     "timeYear": 5029,
     "dailyMinutesDown": {
       "2022-02-07": 64,
@@ -100,7 +100,7 @@
       "2022-01-05": 225,
       "2022-01-04": 41,
       "2022-01-03": 129,
-      "2022-01-02": 98
+      "2022-01-02": 72
     }
   },
   {
@@ -246,7 +246,7 @@
     "uptime": "90.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.82%",
+    "uptimeMonth": "62.90%",
     "uptimeYear": "89.45%",
     "time": 322,
     "timeDay": 152,
@@ -419,18 +419,18 @@
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "88.83%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "94.18%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.54%",
+    "uptimeDay": "89.49%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "99.51%",
     "time": 791,
     "timeDay": 708,
     "timeWeek": 747,
     "timeMonth": 753,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2022-02-07": 161,
+      "2022-02-07": 151,
       "2022-02-06": 44,
       "2022-02-04": 109,
       "2022-02-02": 157,
@@ -453,7 +453,7 @@
       "2022-01-16": 79,
       "2022-01-15": 108,
       "2022-01-14": 149,
-      "2022-01-13": 88
+      "2022-01-13": 134
     }
   },
   {
@@ -473,7 +473,7 @@
     "timeMonth": 1397,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2022-02-07": 1206,
+      "2022-02-07": 1240,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
