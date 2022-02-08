@@ -59,8 +59,8 @@
     "uptimeMonth": "93.35%",
     "uptimeYear": "99.33%",
     "time": 4999,
-    "timeDay": 3920,
-    "timeWeek": 3962,
+    "timeDay": 3885,
+    "timeWeek": 3961,
     "timeMonth": 3937,
     "timeYear": 5028,
     "dailyMinutesDown": {
@@ -247,7 +247,7 @@
     "uptime": "90.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.77%",
+    "uptimeMonth": "63.90%",
     "uptimeYear": "89.45%",
     "time": 323,
     "timeDay": 636,
@@ -420,18 +420,17 @@
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
     "status": "up",
-    "uptime": "99.55%",
-    "uptimeDay": "91.48%",
-    "uptimeWeek": "94.04%",
-    "uptimeMonth": "94.19%",
-    "uptimeYear": "99.52%",
+    "uptime": "99.54%",
+    "uptimeDay": "92.67%",
+    "uptimeWeek": "94.10%",
+    "uptimeMonth": "94.10%",
+    "uptimeYear": "99.51%",
     "time": 790,
-    "timeDay": 713,
+    "timeDay": 709,
     "timeWeek": 750,
-    "timeMonth": 753,
+    "timeMonth": 754,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2022-02-08": 6,
       "2022-02-07": 151,
       "2022-02-06": 44,
       "2022-02-04": 109,
@@ -455,7 +454,7 @@
       "2022-01-16": 79,
       "2022-01-15": 108,
       "2022-01-14": 149,
-      "2022-01-13": 88
+      "2022-01-13": 134
     }
   },
   {
@@ -475,7 +474,7 @@
     "timeMonth": 1395,
     "timeYear": 1213,
     "dailyMinutesDown": {
-      "2022-02-08": 181,
+      "2022-02-08": 241,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
