@@ -51,16 +51,16 @@
     "url": "https://gitlab01.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.38%",
-    "uptimeDay": "98.55%",
+    "uptimeDay": "98.54%",
     "uptimeWeek": "96.19%",
     "uptimeMonth": "93.40%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 4994,
-    "timeDay": 4162,
-    "timeWeek": 4001,
-    "timeMonth": 3950,
+    "timeDay": 4232,
+    "timeWeek": 4014,
+    "timeMonth": 3954,
     "timeYear": 5023,
     "dailyMinutesDown": {
       "2022-02-09": 21,
@@ -101,7 +101,7 @@
       "2022-01-05": 225,
       "2022-01-04": 41,
       "2022-01-03": 129,
-      "2022-01-02": 51
+      "2022-01-02": 19
     }
   },
   {
@@ -247,7 +247,7 @@
     "uptime": "90.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "67.24%",
+    "uptimeMonth": "67.33%",
     "uptimeYear": "89.45%",
     "time": 322,
     "timeDay": 144,
@@ -426,7 +426,7 @@
     "uptimeMonth": "94.20%",
     "uptimeYear": "99.52%",
     "time": 788,
-    "timeDay": 624,
+    "timeDay": 623,
     "timeWeek": 739,
     "timeMonth": 754,
     "timeYear": 782,
@@ -475,7 +475,7 @@
     "timeMonth": 1358,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2022-02-09": 262,
+      "2022-02-09": 300,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
       "2022-02-06": 1440,
