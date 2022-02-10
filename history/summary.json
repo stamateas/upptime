@@ -14,7 +14,7 @@
     "timeDay": 1009,
     "timeWeek": 1899,
     "timeMonth": 1639,
-    "timeYear": 1049,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2022-01-19": 111,
       "2022-01-11": 22,
@@ -51,18 +51,17 @@
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
     "status": "up",
-    "uptime": "99.39%",
-    "uptimeDay": "98.02%",
-    "uptimeWeek": "95.99%",
-    "uptimeMonth": "93.45%",
+    "uptime": "99.38%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "93.47%",
     "uptimeYear": "99.34%",
     "time": 4987,
     "timeDay": 4110,
     "timeWeek": 4008,
     "timeMonth": 3960,
-    "timeYear": 5016,
+    "timeYear": 5017,
     "dailyMinutesDown": {
-      "2022-02-10": 6,
       "2022-02-09": 59,
       "2022-02-08": 34,
       "2022-02-07": 64,
@@ -100,7 +99,8 @@
       "2022-01-06": 26,
       "2022-01-05": 225,
       "2022-01-04": 41,
-      "2022-01-03": 89
+      "2022-01-03": 129,
+      "2022-01-02": 1
     }
   },
   {
@@ -118,7 +118,7 @@
     "timeDay": 156,
     "timeWeek": 413,
     "timeMonth": 493,
-    "timeYear": 556,
+    "timeYear": 555,
     "dailyMinutesDown": {
       "2022-01-19": 74,
       "2021-12-18": 23,
@@ -164,7 +164,7 @@
     "timeDay": 916,
     "timeWeek": 917,
     "timeMonth": 1033,
-    "timeYear": 771,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2022-01-24": 132,
       "2022-01-19": 63,
@@ -244,13 +244,13 @@
     "uptime": "90.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "71.82%",
+    "uptimeMonth": "71.85%",
     "uptimeYear": "89.45%",
     "time": 323,
     "timeDay": 555,
     "timeWeek": 393,
     "timeMonth": 526,
-    "timeYear": 333,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2022-01-19": 212,
       "2022-01-18": 1440,
@@ -424,7 +424,7 @@
     "timeDay": 756,
     "timeWeek": 740,
     "timeMonth": 753,
-    "timeYear": 783,
+    "timeYear": 782,
     "dailyMinutesDown": {
       "2022-02-10": 56,
       "2022-02-09": 53,
@@ -471,7 +471,7 @@
     "timeMonth": 1358,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2022-02-10": 828,
+      "2022-02-10": 842,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
