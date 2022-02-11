@@ -52,17 +52,17 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "97.31%",
-    "uptimeWeek": "97.08%",
-    "uptimeMonth": "93.56%",
+    "uptimeDay": "97.81%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "93.57%",
     "uptimeYear": "99.34%",
     "time": 4984,
     "timeDay": 4302,
-    "timeWeek": 4024,
-    "timeMonth": 3968,
+    "timeWeek": 4025,
+    "timeMonth": 3964,
     "timeYear": 5015,
     "dailyMinutesDown": {
-      "2022-02-11": 39,
+      "2022-02-11": 32,
       "2022-02-09": 59,
       "2022-02-08": 34,
       "2022-02-07": 64,
@@ -100,7 +100,7 @@
       "2022-01-06": 26,
       "2022-01-05": 225,
       "2022-01-04": 41,
-      "2022-01-03": 72
+      "2022-01-03": 89
     }
   },
   {
@@ -244,7 +244,7 @@
     "uptime": "90.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.55%",
+    "uptimeMonth": "74.57%",
     "uptimeYear": "89.45%",
     "time": 323,
     "timeDay": 372,
@@ -414,19 +414,19 @@
     "url": "http://proxima01.its-telekom.eu/livewatch.php",
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
-    "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "88.20%",
+    "status": "down",
+    "uptime": "99.55%",
+    "uptimeDay": "88.15%",
     "uptimeWeek": "94.49%",
-    "uptimeMonth": "94.06%",
-    "uptimeYear": "99.50%",
+    "uptimeMonth": "94.14%",
+    "uptimeYear": "99.51%",
     "time": 787,
     "timeDay": 712,
     "timeWeek": 721,
     "timeMonth": 751,
     "timeYear": 782,
     "dailyMinutesDown": {
-      "2022-02-11": 98,
+      "2022-02-11": 99,
       "2022-02-10": 72,
       "2022-02-09": 53,
       "2022-02-08": 72,
@@ -451,8 +451,7 @@
       "2022-01-18": 327,
       "2022-01-17": 95,
       "2022-01-16": 79,
-      "2022-01-15": 108,
-      "2022-01-14": 4
+      "2022-01-15": 77
     }
   },
   {
@@ -472,7 +471,7 @@
     "timeMonth": 1346,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2022-02-11": 582,
+      "2022-02-11": 594,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
