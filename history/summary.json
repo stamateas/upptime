@@ -50,19 +50,19 @@
     "url": "https://gitlab01.its-telekom.eu",
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
-    "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "89.74%",
-    "uptimeWeek": "94.91%",
+    "status": "degraded",
+    "uptime": "99.37%",
+    "uptimeDay": "89.68%",
+    "uptimeWeek": "94.90%",
     "uptimeMonth": "93.32%",
     "uptimeYear": "99.31%",
-    "time": 4970,
-    "timeDay": 3212,
-    "timeWeek": 3909,
-    "timeMonth": 3936,
-    "timeYear": 5001,
+    "time": 4971,
+    "timeDay": 3300,
+    "timeWeek": 3921,
+    "timeMonth": 3939,
+    "timeYear": 5002,
     "dailyMinutesDown": {
-      "2022-02-12": 66,
+      "2022-02-12": 67,
       "2022-02-11": 214,
       "2022-02-09": 59,
       "2022-02-08": 34,
@@ -99,8 +99,7 @@
       "2022-01-08": 77,
       "2022-01-07": 46,
       "2022-01-06": 26,
-      "2022-01-05": 225,
-      "2022-01-04": 18
+      "2022-01-05": 225
     }
   },
   {
@@ -244,7 +243,7 @@
     "uptime": "90.12%",
     "uptimeDay": "93.85%",
     "uptimeWeek": "99.12%",
-    "uptimeMonth": "78.87%",
+    "uptimeMonth": "78.89%",
     "uptimeYear": "89.44%",
     "time": 358,
     "timeDay": 2397,
@@ -418,17 +417,16 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "94.43%",
-    "uptimeMonth": "94.07%",
-    "uptimeYear": "99.51%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "94.54%",
+    "uptimeMonth": "94.05%",
+    "uptimeYear": "99.50%",
     "time": 787,
     "timeDay": 721,
     "timeWeek": 714,
     "timeMonth": 751,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2022-02-12": 11,
       "2022-02-11": 157,
       "2022-02-10": 72,
       "2022-02-09": 53,
@@ -454,7 +452,7 @@
       "2022-01-18": 327,
       "2022-01-17": 95,
       "2022-01-16": 79,
-      "2022-01-15": 39
+      "2022-01-15": 58
     }
   },
   {
@@ -474,7 +472,7 @@
     "timeMonth": 1346,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2022-02-12": 1127,
+      "2022-02-12": 1133,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
       "2022-02-09": 1440,
