@@ -6,9 +6,9 @@
     "slug": "recatt-server",
     "status": "up",
     "uptime": "98.36%",
-    "uptimeDay": "50.25%",
-    "uptimeWeek": "92.89%",
-    "uptimeMonth": "98.11%",
+    "uptimeDay": "49.73%",
+    "uptimeWeek": "92.82%",
+    "uptimeMonth": "98.09%",
     "uptimeYear": "98.35%",
     "time": 1095,
     "timeDay": 1110,
@@ -16,7 +16,7 @@
     "timeMonth": 1612,
     "timeYear": 1050,
     "dailyMinutesDown": {
-      "2022-02-14": 598,
+      "2022-02-14": 605,
       "2022-02-13": 119,
       "2022-01-19": 111,
       "2022-01-11": 22,
@@ -247,7 +247,7 @@
     "uptime": "90.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.12%",
-    "uptimeMonth": "84.24%",
+    "uptimeMonth": "84.26%",
     "uptimeYear": "89.44%",
     "time": 359,
     "timeDay": 726,
@@ -422,9 +422,9 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "94.43%",
-    "uptimeWeek": "94.74%",
-    "uptimeMonth": "94.15%",
+    "uptimeDay": "94.81%",
+    "uptimeWeek": "94.79%",
+    "uptimeMonth": "94.12%",
     "uptimeYear": "99.51%",
     "time": 786,
     "timeDay": 779,
@@ -432,7 +432,7 @@
     "timeMonth": 752,
     "timeYear": 781,
     "dailyMinutesDown": {
-      "2022-02-14": 23,
+      "2022-02-14": 17,
       "2022-02-13": 59,
       "2022-02-12": 32,
       "2022-02-11": 157,
@@ -458,7 +458,7 @@
       "2022-01-20": 17,
       "2022-01-19": 143,
       "2022-01-18": 327,
-      "2022-01-17": 76
+      "2022-01-17": 95
     }
   },
   {
@@ -478,7 +478,7 @@
     "timeMonth": 1346,
     "timeYear": 1216,
     "dailyMinutesDown": {
-      "2022-02-14": 598,
+      "2022-02-14": 606,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
       "2022-02-11": 1440,
