@@ -6,17 +6,16 @@
     "slug": "recatt-server",
     "status": "up",
     "uptime": "98.27%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "87.05%",
-    "uptimeMonth": "96.77%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.11%",
+    "uptimeMonth": "96.78%",
     "uptimeYear": "98.24%",
     "time": 1092,
-    "timeDay": 674,
+    "timeDay": 302,
     "timeWeek": 955,
     "timeMonth": 1561,
     "timeYear": 1049,
     "dailyMinutesDown": {
-      "2022-02-15": 6,
       "2022-02-14": 1181,
       "2022-02-13": 119,
       "2022-01-19": 111,
@@ -60,8 +59,8 @@
     "uptimeMonth": "94.37%",
     "uptimeYear": "99.32%",
     "time": 4958,
-    "timeDay": 1209,
-    "timeWeek": 3807,
+    "timeDay": 507,
+    "timeWeek": 3802,
     "timeMonth": 3935,
     "timeYear": 4991,
     "dailyMinutesDown": {
@@ -248,7 +247,7 @@
     "uptime": "90.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.12%",
-    "uptimeMonth": "89.33%",
+    "uptimeMonth": "89.49%",
     "uptimeYear": "89.44%",
     "time": 358,
     "timeDay": 87,
@@ -338,7 +337,7 @@
     "icon": "https://favicons.githubusercontent.com/mattermost.its-telekom.eu",
     "slug": "mattermost-server",
     "status": "up",
-    "uptime": "93.92%",
+    "uptime": "93.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.42%",
@@ -479,7 +478,8 @@
     "timeMonth": 1344,
     "timeYear": 1216,
     "dailyMinutesDown": {
-      "2022-02-15": 1387,
+      "2022-02-16": 16,
+      "2022-02-15": 1440,
       "2022-02-14": 1440,
       "2022-02-13": 1440,
       "2022-02-12": 1440,
@@ -842,8 +842,7 @@
       "2021-02-20": 1440,
       "2021-02-19": 1440,
       "2021-02-18": 1440,
-      "2021-02-17": 1440,
-      "2021-02-16": 1440
+      "2021-02-17": 1440
     }
   }
 ]
