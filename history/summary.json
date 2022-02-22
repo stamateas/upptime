@@ -112,7 +112,7 @@
     "icon": "https://favicons.githubusercontent.com/jenkins01.its-telekom.eu",
     "slug": "jenkins-server",
     "status": "up",
-    "uptime": "97.26%",
+    "uptime": "97.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -477,7 +477,7 @@
     "timeMonth": 1181,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2022-02-22": 661,
+      "2022-02-22": 729,
       "2022-02-21": 1440,
       "2022-02-20": 1440,
       "2022-02-19": 1440,
