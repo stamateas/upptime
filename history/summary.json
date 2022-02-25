@@ -61,7 +61,7 @@
     "time": 4951,
     "timeDay": 723,
     "timeWeek": 1606,
-    "timeMonth": 3898,
+    "timeMonth": 3891,
     "timeYear": 4990,
     "dailyMinutesDown": {
       "2022-02-14": 32,
@@ -112,7 +112,7 @@
     "icon": "https://favicons.githubusercontent.com/jenkins01.its-telekom.eu",
     "slug": "jenkins-server",
     "status": "up",
-    "uptime": "97.28%",
+    "uptime": "97.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -477,7 +477,7 @@
     "timeMonth": 1167,
     "timeYear": 1223,
     "dailyMinutesDown": {
-      "2022-02-25": 602,
+      "2022-02-25": 661,
       "2022-02-24": 1440,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
