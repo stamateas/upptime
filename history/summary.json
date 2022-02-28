@@ -252,7 +252,7 @@
     "icon": "https://favicons.githubusercontent.com/auth.its-telekom.eu",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "90.49%",
+    "uptime": "90.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.70%",
@@ -440,7 +440,7 @@
     "time": 788,
     "timeDay": 586,
     "timeWeek": 881,
-    "timeMonth": 741,
+    "timeMonth": 742,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2022-02-26": 28,
@@ -491,7 +491,7 @@
     "timeMonth": 1125,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2022-02-28": 1202,
+      "2022-02-28": 1261,
       "2022-02-27": 1440,
       "2022-02-26": 1440,
       "2022-02-25": 1440,
