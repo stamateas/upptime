@@ -440,7 +440,7 @@
     "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
     "slug": "proxima-dns-server",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "98.32%",
@@ -499,7 +499,7 @@
     "timeMonth": 1085,
     "timeYear": 1220,
     "dailyMinutesDown": {
-      "2022-03-04": 962,
+      "2022-03-04": 1028,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
       "2022-03-01": 1440,
