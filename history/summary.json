@@ -6,9 +6,9 @@
     "slug": "recatt-server",
     "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "96.40%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "97.77%",
+    "uptimeMonth": "96.42%",
     "uptimeYear": "98.20%",
     "time": 1075,
     "timeDay": 945,
@@ -16,7 +16,6 @@
     "timeMonth": 885,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2022-03-07": 8,
       "2022-03-06": 63,
       "2022-03-05": 57,
       "2022-03-03": 60,
@@ -67,7 +66,7 @@
     "time": 4939,
     "timeDay": 597,
     "timeWeek": 1957,
-    "timeMonth": 3571,
+    "timeMonth": 3583,
     "timeYear": 4989,
     "dailyMinutesDown": {
       "2022-03-06": 90,
@@ -506,7 +505,7 @@
     "timeMonth": 1074,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2022-03-07": 1242,
+      "2022-03-07": 1261,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
       "2022-03-04": 1440,
