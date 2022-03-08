@@ -67,8 +67,8 @@
     "time": 4939,
     "timeDay": 1597,
     "timeWeek": 1992,
-    "timeMonth": 3519,
-    "timeYear": 4989,
+    "timeMonth": 3509,
+    "timeYear": 4990,
     "dailyMinutesDown": {
       "2022-03-06": 90,
       "2022-03-03": 60,
@@ -506,7 +506,7 @@
     "timeMonth": 1069,
     "timeYear": 1223,
     "dailyMinutesDown": {
-      "2022-03-08": 661,
+      "2022-03-08": 728,
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
