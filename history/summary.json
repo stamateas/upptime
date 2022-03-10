@@ -358,7 +358,7 @@
     "icon": "https://favicons.githubusercontent.com/mattermost.its-telekom.eu",
     "slug": "mattermost-server",
     "status": "up",
-    "uptime": "94.22%",
+    "uptime": "94.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.65%",
@@ -506,7 +506,7 @@
     "timeMonth": 1056,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2022-03-10": 903,
+      "2022-03-10": 962,
       "2022-03-09": 1440,
       "2022-03-08": 1440,
       "2022-03-07": 1440,
