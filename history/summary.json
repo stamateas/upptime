@@ -181,7 +181,7 @@
     "icon": "https://favicons.githubusercontent.com/reporting.its-telekom.eu",
     "slug": "report-portal-server",
     "status": "up",
-    "uptime": "91.89%",
+    "uptime": "91.90%",
     "uptimeDay": "98.05%",
     "uptimeWeek": "98.88%",
     "uptimeMonth": "99.42%",
@@ -529,7 +529,7 @@
     "timeMonth": 1073,
     "timeYear": 1230,
     "dailyMinutesDown": {
-      "2022-03-16": 1082,
+      "2022-03-16": 1141,
       "2022-03-15": 1440,
       "2022-03-14": 1440,
       "2022-03-13": 1440,
