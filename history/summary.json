@@ -5,10 +5,10 @@
     "icon": "https://favicons.githubusercontent.com/recatt.its-telekom.eu",
     "slug": "recatt-server",
     "status": "up",
-    "uptime": "98.33%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.65%",
+    "uptime": "98.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "98.14%",
     "time": 1059,
     "timeDay": 722,
@@ -16,7 +16,6 @@
     "timeMonth": 918,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2022-03-29": 15,
       "2022-03-27": 114,
       "2022-03-24": 20,
       "2022-03-18": 18,
@@ -69,9 +68,9 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.41%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "98.92%",
     "uptimeYear": "99.29%",
     "time": 4913,
     "timeDay": 1271,
@@ -79,7 +78,6 @@
     "timeMonth": 1591,
     "timeYear": 4984,
     "dailyMinutesDown": {
-      "2022-03-29": 14,
       "2022-03-27": 122,
       "2022-03-24": 20,
       "2022-03-21": 35,
@@ -126,7 +124,7 @@
       "2022-01-14": 101,
       "2022-01-13": 448,
       "2022-01-12": 89,
-      "2022-01-11": 68
+      "2022-01-11": 83
     }
   },
   {
@@ -550,7 +548,7 @@
     "timeMonth": 1041,
     "timeYear": 1233,
     "dailyMinutesDown": {
-      "2022-03-29": 1354,
+      "2022-03-29": 1382,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
