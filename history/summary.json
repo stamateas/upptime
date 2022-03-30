@@ -6,17 +6,16 @@
     "slug": "recatt-server",
     "status": "up",
     "uptime": "98.34%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "98.57%",
-    "uptimeMonth": "98.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.68%",
     "uptimeYear": "98.14%",
     "time": 1058,
     "timeDay": 893,
     "timeWeek": 912,
-    "timeMonth": 928,
+    "timeMonth": 920,
     "timeYear": 1052,
     "dailyMinutesDown": {
-      "2022-03-29": 10,
       "2022-03-27": 114,
       "2022-03-24": 20,
       "2022-03-18": 18,
@@ -76,7 +75,7 @@
     "time": 4913,
     "timeDay": 1231,
     "timeWeek": 1236,
-    "timeMonth": 1580,
+    "timeMonth": 1572,
     "timeYear": 4984,
     "dailyMinutesDown": {
       "2022-03-27": 122,
@@ -142,7 +141,7 @@
     "time": 583,
     "timeDay": 591,
     "timeWeek": 716,
-    "timeMonth": 747,
+    "timeMonth": 738,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2022-03-27": 89,
@@ -197,7 +196,7 @@
     "time": 771,
     "timeDay": 753,
     "timeWeek": 757,
-    "timeMonth": 782,
+    "timeMonth": 775,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2022-03-27": 89,
@@ -291,7 +290,7 @@
     "time": 371,
     "timeDay": 120,
     "timeWeek": 179,
-    "timeMonth": 635,
+    "timeMonth": 621,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2022-03-27": 104,
@@ -397,7 +396,7 @@
     "time": 847,
     "timeDay": 813,
     "timeWeek": 676,
-    "timeMonth": 747,
+    "timeMonth": 745,
     "timeYear": 806,
     "dailyMinutesDown": {
       "2022-03-27": 88,
@@ -490,7 +489,7 @@
     "time": 787,
     "timeDay": 234,
     "timeWeek": 640,
-    "timeMonth": 760,
+    "timeMonth": 756,
     "timeYear": 783,
     "dailyMinutesDown": {
       "2022-03-27": 87,
@@ -541,15 +540,16 @@
     "uptime": "1.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1155,
     "timeDay": 978,
     "timeWeek": 959,
-    "timeMonth": 1050,
+    "timeMonth": 1039,
     "timeYear": 1234,
     "dailyMinutesDown": {
-      "2022-03-29": 1417,
+      "2022-03-30": 23,
+      "2022-03-29": 1440,
       "2022-03-28": 1440,
       "2022-03-27": 1440,
       "2022-03-26": 1440,
@@ -912,8 +912,7 @@
       "2021-04-03": 1440,
       "2021-04-02": 1440,
       "2021-04-01": 1440,
-      "2021-03-31": 1440,
-      "2021-03-30": 1440
+      "2021-03-31": 1440
     }
   }
 ]
