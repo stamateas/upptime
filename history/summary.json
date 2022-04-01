@@ -537,7 +537,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "1.17%",
+    "uptime": "1.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -548,7 +548,7 @@
     "timeMonth": 1066,
     "timeYear": 1237,
     "dailyMinutesDown": {
-      "2022-04-01": 368,
+      "2022-04-01": 422,
       "2022-03-31": 1440,
       "2022-03-30": 1440,
       "2022-03-29": 1440,
