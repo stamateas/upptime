@@ -73,7 +73,7 @@
     "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
     "slug": "git-lab-server",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.22%",
@@ -557,7 +557,7 @@
     "timeMonth": 1080,
     "timeYear": 1240,
     "dailyMinutesDown": {
-      "2022-04-13": 602,
+      "2022-04-13": 662,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
       "2022-04-10": 1440,
