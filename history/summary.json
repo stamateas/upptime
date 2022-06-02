@@ -5,7 +5,7 @@
     "icon": "https://favicons.githubusercontent.com/recatt.its-telekom.eu",
     "slug": "recatt-server",
     "status": "up",
-    "uptime": "98.45%",
+    "uptime": "98.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
@@ -544,7 +544,7 @@
     "timeMonth": 993,
     "timeYear": 1242,
     "dailyMinutesDown": {
-      "2022-06-02": 963,
+      "2022-06-02": 1039,
       "2022-06-01": 1440,
       "2022-05-31": 1440,
       "2022-05-30": 1440,
