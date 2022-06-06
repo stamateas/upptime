@@ -84,7 +84,7 @@
     "timeDay": 1776,
     "timeWeek": 1346,
     "timeMonth": 1425,
-    "timeYear": 4918,
+    "timeYear": 4919,
     "dailyMinutesDown": {
       "2022-06-04": 212,
       "2022-05-28": 18,
@@ -390,7 +390,7 @@
     "icon": "https://favicons.githubusercontent.com/mattermost.its-telekom.eu",
     "slug": "mattermost-server",
     "status": "up",
-    "uptime": "95.16%",
+    "uptime": "95.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.74%",
@@ -550,7 +550,7 @@
     "timeMonth": 1005,
     "timeYear": 1243,
     "dailyMinutesDown": {
-      "2022-06-06": 842,
+      "2022-06-06": 901,
       "2022-06-05": 1440,
       "2022-06-04": 1440,
       "2022-06-03": 1440,
