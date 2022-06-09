@@ -541,7 +541,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "1.01%",
+    "uptime": "1.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -552,7 +552,7 @@
     "timeMonth": 1020,
     "timeYear": 1244,
     "dailyMinutesDown": {
-      "2022-06-09": 902,
+      "2022-06-09": 965,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
       "2022-06-06": 1440,
