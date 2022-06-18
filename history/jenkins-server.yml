@@ -1,7 +1,7 @@
 url: https://jenkins01.its-telekom.eu/
-status: up
-code: 403
-responseTime: 706
-lastUpdated: 2022-06-17T23:06:46.205Z
+status: down
+code: 503
+responseTime: 443
+lastUpdated: 2022-06-18T23:06:15.294Z
 startTime: Wed Jan 13 2021 09:48:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
