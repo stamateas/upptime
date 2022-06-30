@@ -83,7 +83,7 @@
     "timeDay": 1270,
     "timeWeek": 1107,
     "timeMonth": 1415,
-    "timeYear": 4693,
+    "timeYear": 4691,
     "dailyMinutesDown": {
       "2022-06-04": 212,
       "2022-05-28": 18,
@@ -289,7 +289,7 @@
     "icon": "https://favicons.githubusercontent.com/auth.its-telekom.eu",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "92.57%",
+    "uptime": "92.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.56%",
@@ -547,7 +547,7 @@
     "timeMonth": 1029,
     "timeYear": 1238,
     "dailyMinutesDown": {
-      "2022-06-30": 422,
+      "2022-06-30": 488,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
