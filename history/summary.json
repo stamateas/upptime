@@ -83,7 +83,7 @@
     "timeDay": 1288,
     "timeWeek": 1132,
     "timeMonth": 1388,
-    "timeYear": 4635,
+    "timeYear": 4634,
     "dailyMinutesDown": {
       "2022-06-04": 212,
       "2022-05-28": 18,
@@ -199,7 +199,7 @@
     "icon": "https://favicons.githubusercontent.com/reporting.its-telekom.eu",
     "slug": "report-portal-server",
     "status": "up",
-    "uptime": "93.48%",
+    "uptime": "93.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.53%",
@@ -546,7 +546,7 @@
     "timeMonth": 1006,
     "timeYear": 1236,
     "dailyMinutesDown": {
-      "2022-07-03": 31,
+      "2022-07-03": 180,
       "2022-07-02": 1440,
       "2022-07-01": 1440,
       "2022-06-30": 1440,
