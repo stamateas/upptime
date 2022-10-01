@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "97.96%",
-    "time": 1095,
-    "timeDay": 809,
-    "timeWeek": 965,
-    "timeMonth": 985,
+    "time": 1094,
+    "timeDay": 782,
+    "timeWeek": 966,
+    "timeMonth": 980,
     "timeYear": 1123,
     "dailyMinutesDown": {
       "2022-09-20": 18,
@@ -66,8 +66,7 @@
       "2021-10-16": 35,
       "2021-10-15": 46,
       "2021-10-11": 31,
-      "2021-10-04": 16,
-      "2021-10-01": 81
+      "2021-10-04": 16
     }
   },
   {
@@ -82,9 +81,9 @@
     "uptimeMonth": "99.80%",
     "uptimeYear": "99.25%",
     "time": 4216,
-    "timeDay": 1263,
-    "timeWeek": 1457,
-    "timeMonth": 1495,
+    "timeDay": 1214,
+    "timeWeek": 1461,
+    "timeMonth": 1485,
     "timeYear": 4298,
     "dailyMinutesDown": {
       "2022-09-20": 18,
@@ -156,10 +155,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.69%",
     "time": 607,
-    "timeDay": 410,
-    "timeWeek": 503,
-    "timeMonth": 578,
-    "timeYear": 634,
+    "timeDay": 444,
+    "timeWeek": 506,
+    "timeMonth": 573,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2022-09-20": 17,
       "2022-09-12": 21,
@@ -188,8 +187,7 @@
       "2021-11-19": 116,
       "2021-11-15": 82,
       "2021-10-16": 35,
-      "2021-10-15": 46,
-      "2021-10-01": 80
+      "2021-10-15": 46
     }
   },
   {
@@ -204,9 +202,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "92.40%",
     "time": 805,
-    "timeDay": 575,
-    "timeWeek": 707,
-    "timeMonth": 709,
+    "timeDay": 556,
+    "timeWeek": 627,
+    "timeMonth": 706,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2022-09-12": 21,
@@ -278,8 +276,7 @@
       "2021-10-17": 62,
       "2021-10-16": 35,
       "2021-10-15": 45,
-      "2021-10-11": 56,
-      "2021-10-01": 80
+      "2021-10-11": 56
     }
   },
   {
@@ -288,14 +285,14 @@
     "icon": "https://favicons.githubusercontent.com/auth.its-telekom.eu",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "93.63%",
+    "uptime": "93.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "90.46%",
-    "time": 389,
-    "timeDay": 88,
-    "timeWeek": 95,
+    "time": 388,
+    "timeDay": 91,
+    "timeWeek": 96,
     "timeMonth": 145,
     "timeYear": 431,
     "dailyMinutesDown": {
@@ -375,8 +372,7 @@
       "2021-10-17": 52,
       "2021-10-16": 67,
       "2021-10-15": 45,
-      "2021-10-11": 79,
-      "2021-10-01": 79
+      "2021-10-11": 79
     }
   },
   {
@@ -390,11 +386,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "93.43%",
-    "time": 843,
-    "timeDay": 418,
-    "timeWeek": 464,
-    "timeMonth": 543,
-    "timeYear": 855,
+    "time": 842,
+    "timeDay": 460,
+    "timeWeek": 466,
+    "timeMonth": 538,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2022-09-12": 21,
       "2022-08-12": 193,
@@ -469,8 +465,7 @@
       "2021-10-19": 16,
       "2021-10-18": 16,
       "2021-10-16": 35,
-      "2021-10-15": 44,
-      "2021-10-01": 79
+      "2021-10-15": 44
     }
   },
   {
@@ -482,12 +477,12 @@
     "uptime": "87.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "33.03%",
+    "uptimeMonth": "36.57%",
     "uptimeYear": "78.66%",
     "time": 785,
-    "timeDay": 625,
-    "timeWeek": 700,
-    "timeMonth": 704,
+    "timeDay": 612,
+    "timeWeek": 673,
+    "timeMonth": 696,
     "timeYear": 773,
     "dailyMinutesDown": {
       "2022-09-20": 477,
@@ -617,15 +612,16 @@
     "uptime": "0.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1166,
-    "timeDay": 730,
-    "timeWeek": 761,
-    "timeMonth": 940,
-    "timeYear": 1192,
+    "timeDay": 745,
+    "timeWeek": 765,
+    "timeMonth": 929,
+    "timeYear": 1190,
     "dailyMinutesDown": {
-      "2022-09-30": 1382,
+      "2022-10-01": 53,
+      "2022-09-30": 1440,
       "2022-09-29": 1440,
       "2022-09-28": 1440,
       "2022-09-27": 1440,
@@ -988,8 +984,7 @@
       "2021-10-05": 1440,
       "2021-10-04": 1440,
       "2021-10-03": 1440,
-      "2021-10-02": 1440,
-      "2021-10-01": 1440
+      "2021-10-02": 1440
     }
   }
 ]
