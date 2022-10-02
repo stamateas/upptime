@@ -2,7 +2,7 @@
   {
     "name": "Recatt Server",
     "url": "https://recatt.its-telekom.eu",
-    "icon": "https://favicons.githubusercontent.com/recatt.its-telekom.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/recatt.its-telekom.eu.ico",
     "slug": "recatt-server",
     "status": "up",
     "uptime": "98.68%",
@@ -72,7 +72,7 @@
   {
     "name": "GitLab Server",
     "url": "https://gitlab01.its-telekom.eu",
-    "icon": "https://favicons.githubusercontent.com/gitlab01.its-telekom.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/gitlab01.its-telekom.eu.ico",
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.56%",
@@ -146,7 +146,7 @@
   {
     "name": "Jenkins Server",
     "url": "https://jenkins01.its-telekom.eu/",
-    "icon": "https://favicons.githubusercontent.com/jenkins01.its-telekom.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/jenkins01.its-telekom.eu.ico",
     "slug": "jenkins-server",
     "status": "up",
     "uptime": "98.12%",
@@ -193,7 +193,7 @@
   {
     "name": "ReportPortal Server",
     "url": "https://reporting.its-telekom.eu/",
-    "icon": "https://favicons.githubusercontent.com/reporting.its-telekom.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/reporting.its-telekom.eu.ico",
     "slug": "report-portal-server",
     "status": "up",
     "uptime": "94.40%",
@@ -282,7 +282,7 @@
   {
     "name": "Authentication Server",
     "url": "https://auth.its-telekom.eu/",
-    "icon": "https://favicons.githubusercontent.com/auth.its-telekom.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/auth.its-telekom.eu.ico",
     "slug": "authentication-server",
     "status": "up",
     "uptime": "93.65%",
@@ -378,7 +378,7 @@
   {
     "name": "Mattermost Server",
     "url": "https://mattermost.its-telekom.eu/",
-    "icon": "https://favicons.githubusercontent.com/mattermost.its-telekom.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/mattermost.its-telekom.eu.ico",
     "slug": "mattermost-server",
     "status": "up",
     "uptime": "96.03%",
@@ -471,13 +471,13 @@
   {
     "name": "Proxima/DNS Server",
     "url": "http://proxima01.its-telekom.eu/livewatch.php",
-    "icon": "https://favicons.githubusercontent.com/proxima01.its-telekom.eu",
+    "icon": "https://icons.duckduckgo.com/ip3/proxima01.its-telekom.eu.ico",
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "87.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "39.84%",
+    "uptimeMonth": "40.23%",
     "uptimeYear": "78.66%",
     "time": 785,
     "timeDay": 764,
@@ -606,7 +606,7 @@
   {
     "name": "Secret Site",
     "url": "$SECRET_SITE",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
     "uptime": "0.82%",
@@ -620,7 +620,7 @@
     "timeMonth": 919,
     "timeYear": 1190,
     "dailyMinutesDown": {
-      "2022-10-02": 44,
+      "2022-10-02": 217,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
