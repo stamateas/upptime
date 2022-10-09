@@ -75,17 +75,16 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.26%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.25%",
     "time": 4212,
     "timeDay": 809,
     "timeWeek": 1074,
     "timeMonth": 1384,
     "timeYear": 4298,
     "dailyMinutesDown": {
-      "2022-10-08": 8,
       "2022-09-20": 18,
       "2022-09-12": 69,
       "2022-08-12": 282,
@@ -139,7 +138,8 @@
       "2022-01-20": 16,
       "2022-01-19": 155,
       "2022-01-18": 93,
-      "2022-01-17": 40
+      "2022-01-17": 89,
+      "2022-01-16": 7
     }
   },
   {
@@ -284,10 +284,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.its-telekom.eu.ico",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "93.71%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.93%",
+    "uptime": "93.72%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "90.47%",
     "time": 386,
     "timeDay": 91,
@@ -295,7 +295,6 @@
     "timeMonth": 150,
     "timeYear": 431,
     "dailyMinutesDown": {
-      "2022-10-08": 8,
       "2022-09-12": 21,
       "2022-08-12": 239,
       "2022-08-05": 48,
@@ -477,7 +476,7 @@
     "uptime": "87.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "62.65%",
+    "uptimeMonth": "62.83%",
     "uptimeYear": "78.66%",
     "time": 784,
     "timeDay": 850,
@@ -620,7 +619,8 @@
     "timeMonth": 868,
     "timeYear": 1181,
     "dailyMinutesDown": {
-      "2022-10-08": 1397,
+      "2022-10-09": 36,
+      "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
@@ -983,8 +983,7 @@
       "2021-10-13": 1440,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
-      "2021-10-10": 1440,
-      "2021-10-09": 1440
+      "2021-10-10": 1440
     }
   }
 ]
