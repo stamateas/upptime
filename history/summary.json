@@ -74,7 +74,7 @@
     "timeDay": 1212,
     "timeWeek": 1203,
     "timeMonth": 1354,
-    "timeYear": 4151,
+    "timeYear": 4150,
     "dailyMinutesDown": {
       "2022-10-23": 63,
       "2022-10-10": 117,
@@ -270,7 +270,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.66%",
+    "uptimeYear": "90.67%",
     "time": 381,
     "timeDay": 91,
     "timeWeek": 94,
@@ -585,7 +585,7 @@
     "timeMonth": 862,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2022-10-25": 669,
+      "2022-10-25": 734,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
       "2022-10-22": 1440,
