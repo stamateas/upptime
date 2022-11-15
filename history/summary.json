@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/recatt.its-telekom.eu.ico",
     "slug": "recatt-server",
     "status": "down",
-    "uptime": "98.26%",
+    "uptime": "98.25%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "51.57%",
-    "uptimeMonth": "88.86%",
-    "uptimeYear": "98.32%",
-    "time": 1102,
-    "timeDay": 1510,
-    "timeWeek": 1461,
-    "timeMonth": 1174,
-    "timeYear": 1141,
+    "uptimeWeek": "50.69%",
+    "uptimeMonth": "88.65%",
+    "uptimeYear": "98.31%",
+    "time": 1101,
+    "timeDay": 1575,
+    "timeWeek": 1429,
+    "timeMonth": 1164,
+    "timeYear": 1140,
     "dailyMinutesDown": {
-      "2022-11-14": 1381,
+      "2022-11-15": 30,
+      "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 621,
@@ -58,8 +59,7 @@
       "2022-01-11": 22,
       "2021-12-18": 43,
       "2021-12-13": 356,
-      "2021-12-12": 67,
-      "2021-11-15": 85
+      "2021-12-12": 67
     }
   },
   {
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.23%",
-    "time": 3834,
-    "timeDay": 1126,
-    "timeWeek": 1412,
-    "timeMonth": 1386,
-    "timeYear": 3704,
+    "time": 3828,
+    "timeDay": 1736,
+    "timeWeek": 1481,
+    "timeMonth": 1390,
+    "timeYear": 3694,
     "dailyMinutesDown": {
       "2022-10-23": 63,
       "2022-10-10": 117,
@@ -148,11 +148,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.72%",
-    "time": 615,
-    "timeDay": 407,
-    "timeWeek": 654,
+    "time": 616,
+    "timeDay": 591,
+    "timeWeek": 531,
     "timeMonth": 568,
-    "timeYear": 637,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2022-09-20": 17,
       "2022-09-12": 21,
@@ -178,8 +178,7 @@
       "2021-11-22": 51,
       "2021-11-21": 44,
       "2021-11-20": 27,
-      "2021-11-19": 116,
-      "2021-11-15": 82
+      "2021-11-19": 116
     }
   },
   {
@@ -193,11 +192,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.54%",
-    "time": 788,
-    "timeDay": 500,
-    "timeWeek": 620,
-    "timeMonth": 679,
-    "timeYear": 793,
+    "time": 789,
+    "timeDay": 1727,
+    "timeWeek": 791,
+    "timeMonth": 708,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2022-09-12": 21,
       "2022-08-12": 192,
@@ -248,8 +247,7 @@
       "2021-11-22": 968,
       "2021-11-21": 168,
       "2021-11-20": 95,
-      "2021-11-19": 87,
-      "2021-11-15": 81
+      "2021-11-19": 87
     }
   },
   {
@@ -264,10 +262,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.05%",
     "time": 410,
-    "timeDay": 87,
-    "timeWeek": 108,
-    "timeMonth": 120,
-    "timeYear": 406,
+    "timeDay": 117,
+    "timeWeek": 112,
+    "timeMonth": 119,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2022-09-12": 21,
       "2022-08-12": 239,
@@ -326,8 +324,7 @@
       "2021-11-22": 52,
       "2021-11-21": 88,
       "2021-11-20": 60,
-      "2021-11-19": 82,
-      "2021-11-15": 79
+      "2021-11-19": 82
     }
   },
   {
@@ -341,11 +338,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "93.72%",
-    "time": 822,
-    "timeDay": 1468,
-    "timeWeek": 753,
-    "timeMonth": 626,
-    "timeYear": 858,
+    "time": 823,
+    "timeDay": 756,
+    "timeWeek": 653,
+    "timeMonth": 634,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2022-10-26": 122,
       "2022-10-20": 41,
@@ -400,8 +397,7 @@
       "2021-11-21": 38,
       "2021-11-20": 64,
       "2021-11-19": 122,
-      "2021-11-18": 38,
-      "2021-11-15": 78
+      "2021-11-18": 38
     }
   },
   {
@@ -416,9 +412,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.66%",
     "time": 781,
-    "timeDay": 611,
-    "timeWeek": 778,
-    "timeMonth": 780,
+    "timeDay": 1120,
+    "timeWeek": 850,
+    "timeMonth": 788,
     "timeYear": 768,
     "dailyMinutesDown": {
       "2022-09-20": 477,
@@ -551,12 +547,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1166,
-    "timeDay": 743,
-    "timeWeek": 928,
-    "timeMonth": 1128,
-    "timeYear": 1120,
+    "timeDay": 965,
+    "timeWeek": 946,
+    "timeMonth": 1122,
+    "timeYear": 1119,
     "dailyMinutesDown": {
-      "2022-11-14": 1382,
+      "2022-11-15": 30,
+      "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
@@ -919,8 +916,7 @@
       "2021-11-19": 1440,
       "2021-11-18": 1440,
       "2021-11-17": 1440,
-      "2021-11-16": 1440,
-      "2021-11-15": 1440
+      "2021-11-16": 1440
     }
   }
 ]
