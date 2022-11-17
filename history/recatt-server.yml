@@ -1,7 +1,7 @@
 url: https://recatt.its-telekom.eu
-status: degraded
+status: down
 code: 502
-responseTime: 7735
-lastUpdated: 2022-11-17T06:54:58.645Z
+responseTime: 1040
+lastUpdated: 2022-11-17T07:06:33.506Z
 startTime: Wed Jan 13 2021 09:47:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
