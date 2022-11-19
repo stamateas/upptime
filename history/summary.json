@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/recatt.its-telekom.eu.ico",
     "slug": "recatt-server",
     "status": "down",
-    "uptime": "97.68%",
+    "uptime": "97.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "75.71%",
-    "uptimeYear": "97.24%",
-    "time": 1145,
-    "timeDay": 1565,
-    "timeWeek": 1983,
-    "timeMonth": 1529,
-    "timeYear": 1183,
+    "uptimeMonth": "75.50%",
+    "uptimeYear": "97.23%",
+    "time": 1144,
+    "timeDay": 1543,
+    "timeWeek": 1976,
+    "timeMonth": 1526,
+    "timeYear": 1182,
     "dailyMinutesDown": {
-      "2022-11-18": 1380,
+      "2022-11-19": 31,
+      "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
@@ -77,10 +78,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.23%",
     "time": 3826,
-    "timeDay": 1793,
-    "timeWeek": 1506,
-    "timeMonth": 1400,
-    "timeYear": 3654,
+    "timeDay": 1635,
+    "timeWeek": 1574,
+    "timeMonth": 1413,
+    "timeYear": 3652,
     "dailyMinutesDown": {
       "2022-10-23": 63,
       "2022-10-10": 117,
@@ -152,10 +153,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 627,
-    "timeDay": 679,
-    "timeWeek": 552,
-    "timeMonth": 574,
-    "timeYear": 641,
+    "timeDay": 604,
+    "timeWeek": 579,
+    "timeMonth": 565,
+    "timeYear": 640,
     "dailyMinutesDown": {
       "2022-09-20": 17,
       "2022-09-12": 21,
@@ -180,8 +181,7 @@
       "2021-12-18": 23,
       "2021-11-22": 51,
       "2021-11-21": 44,
-      "2021-11-20": 27,
-      "2021-11-19": 116
+      "2021-11-20": 27
     }
   },
   {
@@ -195,11 +195,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.56%",
-    "time": 790,
-    "timeDay": 847,
-    "timeWeek": 847,
-    "timeMonth": 717,
-    "timeYear": 782,
+    "time": 789,
+    "timeDay": 716,
+    "timeWeek": 874,
+    "timeMonth": 724,
+    "timeYear": 784,
     "dailyMinutesDown": {
       "2022-09-12": 21,
       "2022-08-12": 192,
@@ -249,8 +249,7 @@
       "2021-11-23": 1440,
       "2021-11-22": 968,
       "2021-11-21": 168,
-      "2021-11-20": 95,
-      "2021-11-19": 87
+      "2021-11-20": 95
     }
   },
   {
@@ -265,10 +264,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.06%",
     "time": 410,
-    "timeDay": 157,
-    "timeWeek": 115,
-    "timeMonth": 122,
-    "timeYear": 394,
+    "timeDay": 121,
+    "timeWeek": 120,
+    "timeMonth": 123,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2022-09-12": 21,
       "2022-08-12": 239,
@@ -326,8 +325,7 @@
       "2021-12-18": 775,
       "2021-11-22": 52,
       "2021-11-21": 88,
-      "2021-11-20": 60,
-      "2021-11-19": 82
+      "2021-11-20": 60
     }
   },
   {
@@ -341,10 +339,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "93.75%",
-    "time": 822,
-    "timeDay": 649,
-    "timeWeek": 683,
-    "timeMonth": 640,
+    "time": 820,
+    "timeDay": 595,
+    "timeWeek": 767,
+    "timeMonth": 645,
     "timeYear": 854,
     "dailyMinutesDown": {
       "2022-10-26": 122,
@@ -398,8 +396,7 @@
       "2021-11-23": 1440,
       "2021-11-22": 975,
       "2021-11-21": 38,
-      "2021-11-20": 64,
-      "2021-11-19": 122
+      "2021-11-20": 64
     }
   },
   {
@@ -408,16 +405,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxima01.its-telekom.eu.ico",
     "slug": "proxima-dns-server",
     "status": "up",
-    "uptime": "88.45%",
+    "uptime": "88.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.66%",
     "time": 781,
-    "timeDay": 1012,
-    "timeWeek": 840,
-    "timeMonth": 788,
-    "timeYear": 768,
+    "timeDay": 996,
+    "timeWeek": 900,
+    "timeMonth": 782,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2022-09-20": 477,
       "2022-09-19": 1440,
@@ -549,12 +546,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1166,
-    "timeDay": 1278,
-    "timeWeek": 984,
-    "timeMonth": 1143,
-    "timeYear": 1121,
+    "timeDay": 899,
+    "timeWeek": 997,
+    "timeMonth": 1149,
+    "timeYear": 1117,
     "dailyMinutesDown": {
-      "2022-11-18": 1381,
+      "2022-11-19": 32,
+      "2022-11-18": 1440,
       "2022-11-17": 1440,
       "2022-11-16": 1440,
       "2022-11-15": 1440,
@@ -917,8 +915,7 @@
       "2021-11-23": 1440,
       "2021-11-22": 1440,
       "2021-11-21": 1440,
-      "2021-11-20": 1440,
-      "2021-11-19": 1440
+      "2021-11-20": 1440
     }
   }
 ]
