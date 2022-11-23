@@ -8,15 +8,16 @@
     "uptime": "97.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "62.48%",
-    "uptimeYear": "96.14%",
+    "uptimeMonth": "62.37%",
+    "uptimeYear": "96.13%",
     "time": 1151,
     "timeDay": 1848,
     "timeWeek": 1981,
     "timeMonth": 1561,
     "timeYear": 1188,
     "dailyMinutesDown": {
-      "2022-11-22": 1415,
+      "2022-11-23": 25,
+      "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
@@ -76,9 +77,9 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.23%",
     "time": 3629,
     "timeDay": 1457,
@@ -86,7 +87,6 @@
     "timeMonth": 1413,
     "timeYear": 3465,
     "dailyMinutesDown": {
-      "2022-11-22": 9,
       "2022-10-23": 63,
       "2022-10-10": 117,
       "2022-09-20": 18,
@@ -141,7 +141,8 @@
       "2022-01-21": 37,
       "2022-01-20": 16,
       "2022-01-19": 155,
-      "2022-01-18": 93
+      "2022-01-18": 93,
+      "2022-01-17": 21
     }
   },
   {
@@ -151,9 +152,9 @@
     "slug": "jenkins-server",
     "status": "up",
     "uptime": "98.26%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 628,
     "timeDay": 533,
@@ -161,7 +162,6 @@
     "timeMonth": 613,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2022-11-22": 9,
       "2022-09-20": 17,
       "2022-09-12": 21,
       "2022-08-12": 202,
@@ -192,17 +192,16 @@
     "slug": "report-portal-server",
     "status": "up",
     "uptime": "94.83%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "92.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "92.81%",
     "time": 783,
     "timeDay": 614,
     "timeWeek": 720,
     "timeMonth": 737,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2022-11-22": 9,
       "2022-09-12": 21,
       "2022-08-12": 192,
       "2022-08-05": 48,
@@ -247,8 +246,7 @@
       "2021-11-27": 1440,
       "2021-11-26": 1440,
       "2021-11-25": 1440,
-      "2021-11-24": 1440,
-      "2021-11-23": 1440
+      "2021-11-24": 1440
     }
   },
   {
@@ -258,9 +256,9 @@
     "slug": "authentication-server",
     "status": "up",
     "uptime": "94.13%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "91.12%",
     "time": 394,
     "timeDay": 229,
@@ -268,7 +266,6 @@
     "timeMonth": 134,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2022-11-22": 9,
       "2022-09-12": 21,
       "2022-08-12": 239,
       "2022-08-05": 48,
@@ -332,17 +329,16 @@
     "slug": "mattermost-server",
     "status": "up",
     "uptime": "96.31%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "93.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "93.98%",
     "time": 842,
     "timeDay": 406,
     "timeWeek": 554,
     "timeMonth": 629,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2022-11-22": 9,
       "2022-10-26": 122,
       "2022-10-20": 41,
       "2022-09-12": 21,
@@ -390,8 +386,7 @@
       "2021-11-27": 1440,
       "2021-11-26": 1440,
       "2021-11-25": 1440,
-      "2021-11-24": 1440,
-      "2021-11-23": 1440
+      "2021-11-24": 1440
     }
   },
   {
@@ -400,18 +395,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxima01.its-telekom.eu.ico",
     "slug": "proxima-dns-server",
     "status": "up",
-    "uptime": "88.53%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "78.67%",
+    "uptime": "88.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "78.66%",
     "time": 780,
     "timeDay": 581,
     "timeWeek": 788,
     "timeMonth": 792,
     "timeYear": 769,
     "dailyMinutesDown": {
-      "2022-11-22": 9,
       "2022-09-20": 477,
       "2022-09-19": 1440,
       "2022-09-18": 1440,
@@ -526,7 +520,8 @@
       "2022-01-22": 106,
       "2022-01-21": 50,
       "2022-01-20": 17,
-      "2022-01-19": 143
+      "2022-01-19": 143,
+      "2022-01-18": 64
     }
   },
   {
@@ -546,7 +541,8 @@
     "timeMonth": 1171,
     "timeYear": 1098,
     "dailyMinutesDown": {
-      "2022-11-22": 1415,
+      "2022-11-23": 25,
+      "2022-11-22": 1440,
       "2022-11-21": 1440,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
@@ -909,8 +905,7 @@
       "2021-11-27": 1440,
       "2021-11-26": 1440,
       "2021-11-25": 1440,
-      "2021-11-24": 1440,
-      "2021-11-23": 1440
+      "2021-11-24": 1440
     }
   }
 ]
