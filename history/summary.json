@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/recatt.its-telekom.eu.ico",
     "slug": "recatt-server",
     "status": "down",
-    "uptime": "95.97%",
+    "uptime": "95.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "36.15%",
-    "uptimeYear": "93.95%",
+    "uptimeMonth": "36.05%",
+    "uptimeYear": "93.94%",
     "time": 1207,
     "timeDay": 2154,
     "timeWeek": 2702,
-    "timeMonth": 2012,
+    "timeMonth": 2022,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2022-11-30": 1430,
+      "2022-12-01": 32,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -84,17 +85,17 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "98.51%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.23%",
     "time": 3665,
     "timeDay": 2785,
     "timeWeek": 2518,
-    "timeMonth": 2082,
+    "timeMonth": 2090,
     "timeYear": 3454,
     "dailyMinutesDown": {
-      "2022-11-30": 21,
+      "2022-11-30": 15,
       "2022-11-27": 25,
       "2022-10-23": 63,
       "2022-10-10": 117,
@@ -150,7 +151,7 @@
       "2022-01-21": 37,
       "2022-01-20": 16,
       "2022-01-19": 155,
-      "2022-01-18": 48
+      "2022-01-18": 75
     }
   },
   {
@@ -167,7 +168,7 @@
     "time": 630,
     "timeDay": 454,
     "timeWeek": 689,
-    "timeMonth": 687,
+    "timeMonth": 689,
     "timeYear": 667,
     "dailyMinutesDown": {
       "2022-09-20": 17,
@@ -207,7 +208,7 @@
     "time": 781,
     "timeDay": 683,
     "timeWeek": 678,
-    "timeMonth": 720,
+    "timeMonth": 723,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2022-11-30": 18,
@@ -247,8 +248,7 @@
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
-      "2021-12-02": 1440,
-      "2021-12-01": 1440
+      "2021-12-02": 1440
     }
   },
   {
@@ -265,7 +265,7 @@
     "time": 392,
     "timeDay": 363,
     "timeWeek": 153,
-    "timeMonth": 145,
+    "timeMonth": 146,
     "timeYear": 375,
     "dailyMinutesDown": {
       "2022-09-12": 21,
@@ -334,11 +334,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.16%",
+    "uptimeYear": "96.17%",
     "time": 838,
     "timeDay": 408,
     "timeWeek": 537,
-    "timeMonth": 651,
+    "timeMonth": 653,
     "timeYear": 866,
     "dailyMinutesDown": {
       "2022-10-26": 122,
@@ -380,8 +380,7 @@
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
-      "2021-12-02": 1440,
-      "2021-12-01": 1440
+      "2021-12-02": 1440
     }
   },
   {
@@ -398,7 +397,7 @@
     "time": 779,
     "timeDay": 620,
     "timeWeek": 654,
-    "timeMonth": 784,
+    "timeMonth": 785,
     "timeYear": 768,
     "dailyMinutesDown": {
       "2022-09-20": 477,
@@ -528,15 +527,16 @@
     "uptime": "0.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1164,
     "timeDay": 723,
     "timeWeek": 946,
-    "timeMonth": 1192,
+    "timeMonth": 1202,
     "timeYear": 1087,
     "dailyMinutesDown": {
-      "2022-11-30": 1431,
+      "2022-12-01": 32,
+      "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
@@ -899,8 +899,7 @@
       "2021-12-05": 1440,
       "2021-12-04": 1440,
       "2021-12-03": 1440,
-      "2021-12-02": 1440,
-      "2021-12-01": 1440
+      "2021-12-02": 1440
     }
   }
 ]
