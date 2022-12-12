@@ -16,7 +16,7 @@
     "timeMonth": 2171,
     "timeYear": 1364,
     "dailyMinutesDown": {
-      "2022-12-12": 367,
+      "2022-12-12": 374,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
@@ -93,18 +93,19 @@
     "url": "https://gitlab01.its-telekom.eu",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab01.its-telekom.eu.ico",
     "slug": "git-lab-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.29%",
-    "uptimeYear": "99.23%",
-    "time": 3597,
+    "uptimeYear": "99.24%",
+    "time": 3593,
     "timeDay": 754,
     "timeWeek": 1297,
     "timeMonth": 2249,
     "timeYear": 3428,
     "dailyMinutesDown": {
+      "2022-12-12": 1,
       "2022-12-02": 74,
       "2022-12-01": 197,
       "2022-11-30": 15,
@@ -159,7 +160,7 @@
       "2022-01-25": 33,
       "2022-01-24": 242,
       "2022-01-23": 22,
-      "2022-01-22": 66
+      "2022-01-22": 18
     }
   },
   {
@@ -526,7 +527,7 @@
     "timeMonth": 1017,
     "timeYear": 1087,
     "dailyMinutesDown": {
-      "2022-12-12": 367,
+      "2022-12-12": 374,
       "2022-12-11": 1440,
       "2022-12-10": 1440,
       "2022-12-09": 1440,
