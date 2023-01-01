@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/recatt.its-telekom.eu.ico",
     "slug": "recatt-server",
     "status": "down",
-    "uptime": "91.78%",
+    "uptime": "91.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 2298,
     "timeYear": 1542,
     "dailyMinutesDown": {
-      "2023-01-01": 526,
+      "2023-01-01": 541,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
@@ -114,7 +114,7 @@
     "status": "up",
     "uptime": "99.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "98.78%",
     "uptimeYear": "99.18%",
     "time": 3320,
@@ -271,12 +271,12 @@
     "status": "up",
     "uptime": "94.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.76%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "94.89%",
     "time": 387,
     "timeDay": 92,
-    "timeWeek": 205,
+    "timeWeek": 156,
     "timeMonth": 266,
     "timeYear": 358,
     "dailyMinutesDown": {
@@ -380,9 +380,9 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "89.16%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "78.68%",
     "time": 767,
     "timeDay": 772,
@@ -390,7 +390,6 @@
     "timeMonth": 797,
     "timeYear": 768,
     "dailyMinutesDown": {
-      "2023-01-01": 6,
       "2022-12-12": 34,
       "2022-12-02": 50,
       "2022-09-20": 477,
@@ -507,7 +506,7 @@
       "2022-01-22": 106,
       "2022-01-21": 50,
       "2022-01-20": 17,
-      "2022-01-19": 24
+      "2022-01-19": 44
     }
   },
   {
@@ -527,7 +526,7 @@
     "timeMonth": 1044,
     "timeYear": 1056,
     "dailyMinutesDown": {
-      "2023-01-01": 527,
+      "2023-01-01": 541,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
       "2022-12-29": 1440,
