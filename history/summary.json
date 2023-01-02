@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/recatt.its-telekom.eu.ico",
     "slug": "recatt-server",
     "status": "down",
-    "uptime": "91.65%",
+    "uptime": "91.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 2295,
     "timeYear": 1551,
     "dailyMinutesDown": {
-      "2023-01-02": 541,
+      "2023-01-02": 564,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
@@ -378,9 +378,9 @@
     "url": "http://proxima01.its-telekom.eu/livewatch.php",
     "icon": "https://icons.duckduckgo.com/ip3/proxima01.its-telekom.eu.ico",
     "slug": "proxima-dns-server",
-    "status": "up",
+    "status": "down",
     "uptime": "89.18%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "78.68%",
@@ -390,6 +390,7 @@
     "timeMonth": 810,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2023-01-02": 1,
       "2022-12-12": 34,
       "2022-12-02": 50,
       "2022-09-20": 477,
@@ -506,7 +507,7 @@
       "2022-01-22": 106,
       "2022-01-21": 50,
       "2022-01-20": 17,
-      "2022-01-19": 44
+      "2022-01-19": 24
     }
   },
   {
@@ -526,7 +527,7 @@
     "timeMonth": 1048,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2023-01-02": 542,
+      "2023-01-02": 564,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
       "2022-12-30": 1440,
