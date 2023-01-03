@@ -16,7 +16,7 @@
     "timeMonth": 2300,
     "timeYear": 1561,
     "dailyMinutesDown": {
-      "2023-01-03": 841,
+      "2023-01-03": 861,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
@@ -123,7 +123,7 @@
     "timeDay": 1669,
     "timeWeek": 1504,
     "timeMonth": 1801,
-    "timeYear": 3230,
+    "timeYear": 3231,
     "dailyMinutesDown": {
       "2022-12-25": 223,
       "2022-12-12": 155,
@@ -378,10 +378,10 @@
     "url": "http://proxima01.its-telekom.eu/livewatch.php",
     "icon": "https://icons.duckduckgo.com/ip3/proxima01.its-telekom.eu.ico",
     "slug": "proxima-dns-server",
-    "status": "up",
-    "uptime": "89.19%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "89.20%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "78.68%",
     "time": 767,
@@ -390,6 +390,7 @@
     "timeMonth": 799,
     "timeYear": 768,
     "dailyMinutesDown": {
+      "2023-01-03": 1,
       "2022-12-12": 34,
       "2022-12-02": 50,
       "2022-09-20": 477,
@@ -506,7 +507,7 @@
       "2022-01-22": 106,
       "2022-01-21": 50,
       "2022-01-20": 17,
-      "2022-01-19": 44
+      "2022-01-19": 24
     }
   },
   {
@@ -526,7 +527,7 @@
     "timeMonth": 1042,
     "timeYear": 1057,
     "dailyMinutesDown": {
-      "2023-01-03": 841,
+      "2023-01-03": 862,
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
