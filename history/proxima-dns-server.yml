@@ -1,7 +1,7 @@
 url: http://proxima01.its-telekom.eu/livewatch.php
-status: up
+status: degraded
 code: 200
-responseTime: 892
-lastUpdated: 2023-01-24T23:06:31.067Z
+responseTime: 8326
+lastUpdated: 2023-01-25T07:39:46.169Z
 startTime: Wed Jan 13 2021 09:48:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
