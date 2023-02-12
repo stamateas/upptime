@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/recatt.its-telekom.eu.ico",
     "slug": "recatt-server",
     "status": "down",
-    "uptime": "86.75%",
+    "uptime": "86.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "74.07%",
-    "time": 1605,
-    "timeDay": 1151,
-    "timeWeek": 1477,
-    "timeMonth": 1704,
-    "timeYear": 1653,
+    "uptimeYear": "74.05%",
+    "time": 1604,
+    "timeDay": 1032,
+    "timeWeek": 1438,
+    "timeMonth": 1702,
+    "timeYear": 1652,
     "dailyMinutesDown": {
-      "2023-02-11": 1381,
+      "2023-02-12": 30,
+      "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
@@ -155,12 +156,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.55%",
-    "uptimeYear": "99.45%",
-    "time": 2496,
-    "timeDay": 1905,
-    "timeWeek": 1538,
-    "timeMonth": 2406,
-    "timeYear": 2043,
+    "uptimeYear": "99.46%",
+    "time": 2488,
+    "timeDay": 1284,
+    "timeWeek": 1471,
+    "timeMonth": 2397,
+    "timeYear": 2044,
     "dailyMinutesDown": {
       "2023-02-09": 44,
       "2023-02-07": 74,
@@ -200,8 +201,7 @@
       "2022-02-26": 28,
       "2022-02-25": 17,
       "2022-02-14": 32,
-      "2022-02-13": 107,
-      "2022-02-12": 69
+      "2022-02-13": 107
     }
   },
   {
@@ -216,10 +216,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.76%",
     "time": 643,
-    "timeDay": 699,
-    "timeWeek": 598,
-    "timeMonth": 605,
-    "timeYear": 674,
+    "timeDay": 410,
+    "timeWeek": 591,
+    "timeMonth": 597,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2023-02-09": 44,
       "2023-02-07": 54,
@@ -258,10 +258,10 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.77%",
     "time": 805,
-    "timeDay": 848,
-    "timeWeek": 689,
-    "timeMonth": 1102,
-    "timeYear": 811,
+    "timeDay": 685,
+    "timeWeek": 714,
+    "timeMonth": 1100,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2023-02-09": 44,
       "2023-02-07": 53,
@@ -299,12 +299,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "99.74%",
-    "time": 358,
-    "timeDay": 159,
+    "uptimeYear": "99.75%",
+    "time": 357,
+    "timeDay": 88,
     "timeWeek": 246,
-    "timeMonth": 188,
-    "timeYear": 326,
+    "timeMonth": 187,
+    "timeYear": 290,
     "dailyMinutesDown": {
       "2023-02-09": 44,
       "2023-02-07": 53,
@@ -329,8 +329,7 @@
       "2022-03-03": 60,
       "2022-03-02": 5,
       "2022-02-26": 28,
-      "2022-02-25": 15,
-      "2022-02-12": 36
+      "2022-02-25": 15
     }
   },
   {
@@ -344,11 +343,11 @@
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.69%",
-    "time": 828,
-    "timeDay": 677,
-    "timeWeek": 517,
-    "timeMonth": 575,
-    "timeYear": 786,
+    "time": 827,
+    "timeDay": 429,
+    "timeWeek": 519,
+    "timeMonth": 569,
+    "timeYear": 785,
     "dailyMinutesDown": {
       "2023-02-09": 43,
       "2023-02-07": 53,
@@ -377,8 +376,7 @@
       "2022-03-03": 60,
       "2022-03-02": 4,
       "2022-02-26": 28,
-      "2022-02-25": 15,
-      "2022-02-12": 16
+      "2022-02-25": 15
     }
   },
   {
@@ -392,11 +390,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "79.02%",
-    "time": 813,
-    "timeDay": 1026,
+    "time": 811,
+    "timeDay": 600,
     "timeWeek": 762,
-    "timeMonth": 1053,
-    "timeYear": 825,
+    "timeMonth": 1047,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2023-02-09": 43,
       "2023-02-07": 53,
@@ -495,8 +493,7 @@
       "2022-02-26": 28,
       "2022-02-25": 14,
       "2022-02-14": 17,
-      "2022-02-13": 59,
-      "2022-02-12": 32
+      "2022-02-13": 59
     }
   },
   {
@@ -510,13 +507,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1158,
-    "timeDay": 1286,
+    "time": 1157,
+    "timeDay": 730,
     "timeWeek": 937,
-    "timeMonth": 1048,
-    "timeYear": 1020,
+    "timeMonth": 1036,
+    "timeYear": 1019,
     "dailyMinutesDown": {
-      "2023-02-11": 1381,
+      "2023-02-12": 31,
+      "2023-02-11": 1440,
       "2023-02-10": 1440,
       "2023-02-09": 1440,
       "2023-02-08": 1440,
@@ -879,8 +877,7 @@
       "2022-02-16": 1440,
       "2022-02-15": 1440,
       "2022-02-14": 1440,
-      "2022-02-13": 1440,
-      "2022-02-12": 1440
+      "2022-02-13": 1440
     }
   }
 ]
