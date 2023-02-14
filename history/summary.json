@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/recatt.its-telekom.eu.ico",
     "slug": "recatt-server",
     "status": "down",
-    "uptime": "86.52%",
+    "uptime": "86.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "73.53%",
     "time": 1608,
-    "timeDay": 431,
-    "timeWeek": 1133,
-    "timeMonth": 1708,
-    "timeYear": 1657,
+    "timeDay": 587,
+    "timeWeek": 1130,
+    "timeMonth": 1707,
+    "timeYear": 1656,
     "dailyMinutesDown": {
-      "2023-02-13": 1381,
+      "2023-02-14": 28,
+      "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -142,8 +143,7 @@
       "2022-03-03": 60,
       "2022-03-02": 44,
       "2022-02-26": 28,
-      "2022-02-25": 17,
-      "2022-02-14": 1181
+      "2022-02-25": 17
     }
   },
   {
@@ -157,11 +157,11 @@
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.50%",
-    "time": 2259,
-    "timeDay": 1318,
-    "timeWeek": 1428,
-    "timeMonth": 2399,
-    "timeYear": 1880,
+    "time": 2251,
+    "timeDay": 1698,
+    "timeWeek": 1442,
+    "timeMonth": 2401,
+    "timeYear": 1856,
     "dailyMinutesDown": {
       "2023-02-09": 44,
       "2023-02-07": 74,
@@ -199,8 +199,7 @@
       "2022-03-03": 60,
       "2022-03-02": 6,
       "2022-02-26": 28,
-      "2022-02-25": 17,
-      "2022-02-14": 32
+      "2022-02-25": 17
     }
   },
   {
@@ -215,10 +214,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.76%",
     "time": 643,
-    "timeDay": 405,
-    "timeWeek": 586,
-    "timeMonth": 596,
-    "timeYear": 670,
+    "timeDay": 598,
+    "timeWeek": 584,
+    "timeMonth": 590,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2023-02-09": 44,
       "2023-02-07": 54,
@@ -257,10 +256,10 @@
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.77%",
     "time": 805,
-    "timeDay": 515,
-    "timeWeek": 713,
-    "timeMonth": 1099,
-    "timeYear": 811,
+    "timeDay": 728,
+    "timeWeek": 712,
+    "timeMonth": 1096,
+    "timeYear": 812,
     "dailyMinutesDown": {
       "2023-02-09": 44,
       "2023-02-07": 53,
@@ -300,10 +299,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.76%",
     "time": 357,
-    "timeDay": 91,
+    "timeDay": 122,
     "timeWeek": 246,
     "timeMonth": 187,
-    "timeYear": 273,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2023-02-09": 44,
       "2023-02-07": 53,
@@ -342,11 +341,11 @@
     "uptimeWeek": "99.04%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.69%",
-    "time": 826,
-    "timeDay": 447,
-    "timeWeek": 518,
-    "timeMonth": 571,
-    "timeYear": 785,
+    "time": 827,
+    "timeDay": 588,
+    "timeWeek": 525,
+    "timeMonth": 570,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2023-02-09": 43,
       "2023-02-07": 53,
@@ -389,11 +388,11 @@
     "uptimeWeek": "99.05%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "79.03%",
-    "time": 810,
-    "timeDay": 581,
-    "timeWeek": 764,
-    "timeMonth": 1046,
-    "timeYear": 831,
+    "time": 811,
+    "timeDay": 837,
+    "timeWeek": 766,
+    "timeMonth": 1062,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2023-02-09": 43,
       "2023-02-07": 53,
@@ -490,8 +489,7 @@
       "2022-03-11": 19,
       "2022-03-06": 32,
       "2022-02-26": 28,
-      "2022-02-25": 14,
-      "2022-02-14": 17
+      "2022-02-25": 14
     }
   },
   {
@@ -505,13 +503,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1157,
-    "timeDay": 719,
-    "timeWeek": 938,
-    "timeMonth": 1031,
+    "time": 1156,
+    "timeDay": 977,
+    "timeWeek": 919,
+    "timeMonth": 1027,
     "timeYear": 1018,
     "dailyMinutesDown": {
-      "2023-02-13": 1381,
+      "2023-02-14": 29,
+      "2023-02-13": 1440,
       "2023-02-12": 1440,
       "2023-02-11": 1440,
       "2023-02-10": 1440,
@@ -874,8 +873,7 @@
       "2022-02-18": 1440,
       "2022-02-17": 1440,
       "2022-02-16": 1440,
-      "2022-02-15": 1440,
-      "2022-02-14": 1440
+      "2022-02-15": 1440
     }
   }
 ]
