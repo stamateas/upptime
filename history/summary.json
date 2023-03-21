@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/recatt.its-telekom.eu.ico",
     "slug": "recatt-server",
     "status": "down",
-    "uptime": "82.72%",
+    "uptime": "82.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "64.27%",
+    "uptimeYear": "64.26%",
     "time": 1797,
-    "timeDay": 2700,
-    "timeWeek": 2551,
-    "timeMonth": 2415,
+    "timeDay": 2711,
+    "timeWeek": 2563,
+    "timeMonth": 2424,
     "timeYear": 1878,
     "dailyMinutesDown": {
-      "2023-03-20": 1386,
+      "2023-03-21": 26,
+      "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
@@ -179,8 +180,8 @@
     "uptimeYear": "99.42%",
     "time": 2296,
     "timeDay": 1113,
-    "timeWeek": 3348,
-    "timeMonth": 2983,
+    "timeWeek": 3392,
+    "timeMonth": 2995,
     "timeYear": 2074,
     "dailyMinutesDown": {
       "2023-03-18": 145,
@@ -214,8 +215,7 @@
       "2022-04-11": 33,
       "2022-04-04": 15,
       "2022-03-27": 122,
-      "2022-03-24": 20,
-      "2022-03-21": 35
+      "2022-03-24": 20
     }
   },
   {
@@ -231,8 +231,8 @@
     "uptimeYear": "99.81%",
     "time": 641,
     "timeDay": 404,
-    "timeWeek": 604,
-    "timeMonth": 564,
+    "timeWeek": 606,
+    "timeMonth": 563,
     "timeYear": 657,
     "dailyMinutesDown": {
       "2023-02-09": 44,
@@ -264,8 +264,8 @@
     "uptimeYear": "99.82%",
     "time": 801,
     "timeDay": 499,
-    "timeWeek": 653,
-    "timeMonth": 637,
+    "timeWeek": 644,
+    "timeMonth": 634,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2023-02-09": 44,
@@ -298,8 +298,8 @@
     "uptimeYear": "99.80%",
     "time": 348,
     "timeDay": 89,
-    "timeWeek": 574,
-    "timeMonth": 277,
+    "timeWeek": 620,
+    "timeMonth": 282,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2023-03-17": 39,
@@ -315,8 +315,7 @@
       "2022-06-04": 191,
       "2022-05-17": 22,
       "2022-03-27": 104,
-      "2022-03-24": 18,
-      "2022-03-21": 34
+      "2022-03-24": 18
     }
   },
   {
@@ -332,8 +331,8 @@
     "uptimeYear": "99.74%",
     "time": 817,
     "timeDay": 406,
-    "timeWeek": 535,
-    "timeMonth": 563,
+    "timeWeek": 529,
+    "timeMonth": 562,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2023-02-09": 43,
@@ -353,8 +352,7 @@
       "2022-05-18": 68,
       "2022-05-17": 22,
       "2022-03-27": 88,
-      "2022-03-24": 17,
-      "2022-03-21": 16
+      "2022-03-24": 17
     }
   },
   {
@@ -370,8 +368,8 @@
     "uptimeYear": "79.08%",
     "time": 812,
     "timeDay": 599,
-    "timeWeek": 734,
-    "timeMonth": 751,
+    "timeWeek": 720,
+    "timeMonth": 747,
     "timeYear": 824,
     "dailyMinutesDown": {
       "2023-02-09": 43,
@@ -460,8 +458,7 @@
       "2022-06-04": 190,
       "2022-05-17": 21,
       "2022-03-27": 87,
-      "2022-03-24": 17,
-      "2022-03-21": 48
+      "2022-03-24": 17
     }
   },
   {
@@ -477,11 +474,12 @@
     "uptimeYear": "0.00%",
     "time": 1101,
     "timeDay": 726,
-    "timeWeek": 891,
-    "timeMonth": 918,
+    "timeWeek": 888,
+    "timeMonth": 911,
     "timeYear": 1003,
     "dailyMinutesDown": {
-      "2023-03-20": 1387,
+      "2023-03-21": 26,
+      "2023-03-20": 1440,
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
@@ -844,8 +842,7 @@
       "2022-03-25": 1440,
       "2022-03-24": 1440,
       "2022-03-23": 1440,
-      "2022-03-22": 1440,
-      "2022-03-21": 1440
+      "2022-03-22": 1440
     }
   }
 ]
