@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/recatt.its-telekom.eu.ico",
     "slug": "recatt-server",
     "status": "down",
-    "uptime": "81.73%",
+    "uptime": "81.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 2417,
     "timeYear": 1950,
     "dailyMinutesDown": {
-      "2023-03-30": 946,
+      "2023-03-30": 961,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
@@ -473,7 +473,7 @@
     "timeMonth": 955,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2023-03-30": 946,
+      "2023-03-30": 961,
       "2023-03-29": 1440,
       "2023-03-28": 1440,
       "2023-03-27": 1440,
