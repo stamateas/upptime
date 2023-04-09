@@ -9,14 +9,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "59.20%",
+    "uptimeYear": "59.19%",
     "time": 1906,
     "timeDay": 1876,
     "timeWeek": 1707,
-    "timeMonth": 2414,
-    "timeYear": 1993,
+    "timeMonth": 2420,
+    "timeYear": 1994,
     "dailyMinutesDown": {
-      "2023-04-08": 1386,
+      "2023-04-09": 27,
+      "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
@@ -175,8 +176,7 @@
       "2022-06-04": 191,
       "2022-05-17": 23,
       "2022-04-13": 35,
-      "2022-04-10": 27,
-      "2022-04-09": 18
+      "2022-04-10": 27
     }
   },
   {
@@ -186,17 +186,17 @@
     "slug": "git-lab-server",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "86.16%",
-    "uptimeWeek": "94.22%",
-    "uptimeMonth": "96.69%",
+    "uptimeDay": "86.85%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "96.71%",
     "uptimeYear": "99.32%",
     "time": 2201,
-    "timeDay": 1256,
+    "timeDay": 1258,
     "timeWeek": 2249,
-    "timeMonth": 2727,
-    "timeYear": 2147,
+    "timeMonth": 2732,
+    "timeYear": 2148,
     "dailyMinutesDown": {
-      "2023-04-08": 199,
+      "2023-04-08": 189,
       "2023-04-07": 76,
       "2023-04-05": 143,
       "2023-04-04": 36,
@@ -248,7 +248,7 @@
     "time": 650,
     "timeDay": 532,
     "timeWeek": 694,
-    "timeMonth": 645,
+    "timeMonth": 646,
     "timeYear": 658,
     "dailyMinutesDown": {
       "2023-02-09": 44,
@@ -278,7 +278,7 @@
     "time": 803,
     "timeDay": 808,
     "timeWeek": 660,
-    "timeMonth": 696,
+    "timeMonth": 695,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2023-02-09": 44,
@@ -302,15 +302,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.its-telekom.eu.ico",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "95.08%",
+    "uptime": "95.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.83%",
     "time": 344,
-    "timeDay": 278,
+    "timeDay": 92,
     "timeWeek": 619,
-    "timeMonth": 431,
+    "timeMonth": 439,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-04-07": 15,
@@ -342,8 +342,8 @@
     "time": 807,
     "timeDay": 444,
     "timeWeek": 502,
-    "timeMonth": 560,
-    "timeYear": 729,
+    "timeMonth": 561,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2023-02-09": 43,
       "2023-02-07": 53,
@@ -377,8 +377,8 @@
     "time": 813,
     "timeDay": 698,
     "timeWeek": 769,
-    "timeMonth": 791,
-    "timeYear": 828,
+    "timeMonth": 790,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2023-02-09": 43,
       "2023-02-07": 53,
@@ -482,9 +482,10 @@
     "timeDay": 758,
     "timeWeek": 928,
     "timeMonth": 970,
-    "timeYear": 1003,
+    "timeYear": 1002,
     "dailyMinutesDown": {
-      "2023-04-08": 1386,
+      "2023-04-09": 27,
+      "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
@@ -847,8 +848,7 @@
       "2022-04-13": 1440,
       "2022-04-12": 1440,
       "2022-04-11": 1440,
-      "2022-04-10": 1440,
-      "2022-04-09": 1440
+      "2022-04-10": 1440
     }
   }
 ]
