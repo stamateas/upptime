@@ -16,7 +16,7 @@
     "timeMonth": 2505,
     "timeYear": 2132,
     "dailyMinutesDown": {
-      "2023-05-22": 1194,
+      "2023-05-22": 1200,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -416,9 +416,9 @@
     "slug": "proxima-dns-server",
     "status": "up",
     "uptime": "90.94%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "79.10%",
     "time": 795,
     "timeDay": 452,
@@ -426,7 +426,6 @@
     "timeMonth": 598,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2023-05-22": 6,
       "2023-05-20": 30,
       "2023-02-09": 43,
       "2023-02-07": 53,
@@ -531,7 +530,7 @@
     "timeMonth": 971,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2023-05-22": 1195,
+      "2023-05-22": 1201,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
