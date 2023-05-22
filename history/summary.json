@@ -16,7 +16,7 @@
     "timeMonth": 2478,
     "timeYear": 2125,
     "dailyMinutesDown": {
-      "2023-05-22": 152,
+      "2023-05-22": 181,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
@@ -233,7 +233,7 @@
     "time": 2213,
     "timeDay": 1586,
     "timeWeek": 4319,
-    "timeMonth": 2796,
+    "timeMonth": 2789,
     "timeYear": 2288,
     "dailyMinutesDown": {
       "2023-05-18": 54,
@@ -348,7 +348,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.its-telekom.eu.ico",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "95.32%",
+    "uptime": "95.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.83%",
@@ -530,7 +530,7 @@
     "timeMonth": 971,
     "timeYear": 990,
     "dailyMinutesDown": {
-      "2023-05-22": 153,
+      "2023-05-22": 181,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
       "2023-05-19": 1440,
