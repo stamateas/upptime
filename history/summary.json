@@ -16,7 +16,7 @@
     "timeMonth": 1923,
     "timeYear": 2246,
     "dailyMinutesDown": {
-      "2023-11-12": 180,
+      "2023-11-12": 240,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
@@ -682,7 +682,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "secret-site",
     "status": "down",
-    "uptime": "0.50%",
+    "uptime": "0.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -693,7 +693,7 @@
     "timeMonth": 1000,
     "timeYear": 983,
     "dailyMinutesDown": {
-      "2023-11-12": 181,
+      "2023-11-12": 241,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
       "2023-11-09": 1440,
