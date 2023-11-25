@@ -1,7 +1,7 @@
 url: https://reporting.its-telekom.eu/
-status: degraded
+status: up
 code: 200
-responseTime: 5924
-lastUpdated: 2023-11-25T12:00:29.437Z
+responseTime: 174
+lastUpdated: 2023-11-25T12:21:49.587Z
 startTime: 2021-01-13T09:48:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
