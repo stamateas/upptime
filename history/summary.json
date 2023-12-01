@@ -16,7 +16,7 @@
     "timeMonth": 1628,
     "timeYear": 2231,
     "dailyMinutesDown": {
-      "2023-12-01": 901,
+      "2023-12-01": 961,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
@@ -562,7 +562,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/proxima01.its-telekom.eu.ico",
     "slug": "proxima-dns-server",
     "status": "up",
-    "uptime": "83.54%",
+    "uptime": "83.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -695,7 +695,7 @@
     "timeMonth": 950,
     "timeYear": 978,
     "dailyMinutesDown": {
-      "2023-12-01": 901,
+      "2023-12-01": 961,
       "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
