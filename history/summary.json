@@ -16,7 +16,7 @@
     "timeMonth": 1655,
     "timeYear": 2228,
     "dailyMinutesDown": {
-      "2023-12-05": 26,
+      "2023-12-05": 106,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
@@ -448,7 +448,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/jenkins01.its-telekom.eu.ico",
     "slug": "jenkins-server",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
@@ -691,7 +691,7 @@
     "timeMonth": 950,
     "timeYear": 976,
     "dailyMinutesDown": {
-      "2023-12-05": 27,
+      "2023-12-05": 106,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
