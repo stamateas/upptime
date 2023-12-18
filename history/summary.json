@@ -16,7 +16,7 @@
     "timeMonth": 1399,
     "timeYear": 2208,
     "dailyMinutesDown": {
-      "2023-12-18": 420,
+      "2023-12-18": 481,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
@@ -498,7 +498,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.its-telekom.eu.ico",
     "slug": "authentication-server",
     "status": "up",
-    "uptime": "96.22%",
+    "uptime": "96.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
@@ -689,7 +689,7 @@
     "timeMonth": 1031,
     "timeYear": 982,
     "dailyMinutesDown": {
-      "2023-12-18": 421,
+      "2023-12-18": 481,
       "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
