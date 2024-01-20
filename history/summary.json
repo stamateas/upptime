@@ -16,7 +16,7 @@
     "timeMonth": 1394,
     "timeYear": 2149,
     "dailyMinutesDown": {
-      "2024-01-20": 900,
+      "2024-01-20": 960,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab01.its-telekom.eu.ico",
     "slug": "git-lab-server",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
@@ -688,7 +688,7 @@
     "timeMonth": 984,
     "timeYear": 997,
     "dailyMinutesDown": {
-      "2024-01-20": 901,
+      "2024-01-20": 961,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
