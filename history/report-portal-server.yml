@@ -1,7 +1,7 @@
 url: https://reporting.its-telekom.eu/
-status: up
-code: 200
-responseTime: 566
-lastUpdated: 2024-01-21T23:06:39.693Z
+status: down
+code: 503
+responseTime: 587
+lastUpdated: 2024-01-22T13:00:57.423Z
 startTime: 2021-01-13T09:48:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
