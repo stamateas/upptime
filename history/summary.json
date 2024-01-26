@@ -16,7 +16,7 @@
     "timeMonth": 1367,
     "timeYear": 2139,
     "dailyMinutesDown": {
-      "2024-01-26": 541,
+      "2024-01-26": 601,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
@@ -471,7 +471,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reporting.its-telekom.eu.ico",
     "slug": "report-portal-server",
     "status": "up",
-    "uptime": "96.79%",
+    "uptime": "96.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "99.65%",
@@ -685,7 +685,7 @@
     "timeMonth": 989,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2024-01-26": 541,
+      "2024-01-26": 601,
       "2024-01-25": 1440,
       "2024-01-24": 1440,
       "2024-01-23": 1440,
