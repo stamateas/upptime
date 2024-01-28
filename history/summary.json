@@ -16,7 +16,7 @@
     "timeMonth": 1360,
     "timeYear": 2139,
     "dailyMinutesDown": {
-      "2024-01-28": 1020,
+      "2024-01-28": 1080,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -530,7 +530,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mattermost.its-telekom.eu.ico",
     "slug": "mattermost-server",
     "status": "up",
-    "uptime": "97.69%",
+    "uptime": "97.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -685,7 +685,7 @@
     "timeMonth": 980,
     "timeYear": 998,
     "dailyMinutesDown": {
-      "2024-01-28": 1021,
+      "2024-01-28": 1081,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
