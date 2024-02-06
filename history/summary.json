@@ -16,7 +16,7 @@
     "timeMonth": 1277,
     "timeYear": 2136,
     "dailyMinutesDown": {
-      "2024-02-06": 367,
+      "2024-02-06": 420,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
@@ -451,12 +451,12 @@
     "status": "up",
     "uptime": "98.91%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.55%",
+    "uptimeWeek": "97.04%",
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.90%",
     "time": 606,
     "timeDay": 449,
-    "timeWeek": 1513,
+    "timeWeek": 1501,
     "timeMonth": 849,
     "timeYear": 594,
     "dailyMinutesDown": {
@@ -686,7 +686,7 @@
     "timeMonth": 1010,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2024-02-06": 367,
+      "2024-02-06": 421,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
